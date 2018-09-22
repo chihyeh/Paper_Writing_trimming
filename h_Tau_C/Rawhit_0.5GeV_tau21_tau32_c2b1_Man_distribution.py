@@ -231,8 +231,10 @@ for k in range(0,3):
                 h2.GetXaxis().SetLabelFont(22)
                 h1.GetYaxis().SetLabelFont(22)
                 h2.GetYaxis().SetLabelFont(22)
-                
-                
+                h1.GetXaxis().SetRangeUser(0,0.2)
+                h2.GetXaxis().SetRangeUser(0,0.2)
+
+
                 
                 
                 #leg.AddEntry(h1,"Z'("+str(energy_array[1][m])+"TeV)#rightarrowt#bar{t}#rightarrow3 jet","l")

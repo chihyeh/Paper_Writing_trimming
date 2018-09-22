@@ -35,7 +35,7 @@ if(variable[k]=="tau21"):
     leg.SetBorderSize(0)
     leg.SetTextFont(22)
     #leg.AddEntry("","Z'#rightarrowt#bar{t}#rightarrow3 jet","")
-    leg.AddEntry("","Z'#rightarrowW^{+}W^{-}#rightarrow2 jet","")
+    leg.AddEntry("","Z'#rightarrowW^{+}W^{-}#rightarrow2 jets","")
     #leg.AddEntry("","Z'#rightarrowq#bar{q}#rightarrow1 jet","")
     
     mg=TMultiGraph()
@@ -104,7 +104,7 @@ if(variable[k+1]=="tau32"):
     leg.SetTextSize(0.05)
     leg.SetBorderSize(0)
     leg.SetTextFont(22)
-    leg.AddEntry("","Z'#rightarrowt#bar{t}#rightarrow2 jet","")
+    leg.AddEntry("","Z'#rightarrowt#bar{t}#rightarrow2 jets","")
     #leg.AddEntry("","Z'#rightarrowW^{+}W^{-}#rightarrow2 jet","")
     #leg.AddEntry("","Z'#rightarrowq#bar{q}#rightarrow1 jet","")
     
@@ -174,7 +174,7 @@ if(variable[k+2]=="c2b1"):
     leg.SetBorderSize(0)
     leg.SetTextFont(22)
     #leg.AddEntry("","Z'#rightarrowt#bar{t}#rightarrow3 jet","")
-    leg.AddEntry("","Z'#rightarrowW^{+}W^{-}#rightarrow2 jet","")
+    leg.AddEntry("","Z'#rightarrowW^{+}W^{-}#rightarrow2 jets","")
     #leg.AddEntry("","Z'#rightarrowq#bar{q}#rightarrow1 jet","")
     
     mg=TMultiGraph()

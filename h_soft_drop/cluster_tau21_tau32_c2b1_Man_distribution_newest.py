@@ -23,7 +23,7 @@ print files_array[0],files_array[1],files_array[2]
 l=9
 p=1
 #---------------------------------------------setting the hisotgram in and normalize
-for k in range(0,4):
+for k in range(1,2):
     if(variable[k]=="mass_mmdt_tt"):
         for n in range(0,3):
             for m in range(0,1):
@@ -87,19 +87,19 @@ for k in range(0,4):
                 print str(h1.Integral()/2)
 
                 #leg.AddEntry(h1,"Z'(20TeV)#rightarrowt#bar{t}#rightarrow3 jet","l")
-                leg.AddEntry(h1,"Z'#rightarrowt#bar{t}#rightarrow2 jet","l")
-                leg.AddEntry(h2,"Z'#rightarrowq#bar{q}#rightarrow2 jet","l")
+                leg.AddEntry(h1,"Z'#rightarrowt#bar{t}#rightarrow2 jets","l")
+                leg.AddEntry(h2,"Z'#rightarrowq#bar{q}#rightarrow2 jets","l")
                 leg.AddEntry("","Median:","")
                 leg.AddEntry("",str((p)*5)+" to "+str((p+1)*5),"")
                 
                 if(h1.GetBinContent(h1.GetMaximumBin())>h2.GetBinContent(h2.GetMaximumBin())):
-                    h1.Rebin(2)
-                    h2.Rebin(2)
+                    h1.Rebin(4)
+                    h2.Rebin(4)
                     h1.Draw("hist")
                     h2.Draw("histsame")
                 else:
-                    h1.Rebin(2)
-                    h2.Rebin(2)
+                    h1.Rebin(4)
+                    h2.Rebin(4)
                     h2.Draw("hist")
                     h1.Draw("histsame")
             
@@ -168,20 +168,18 @@ for k in range(0,4):
                 print str(h1.Integral()/2)
                 
                 #leg.AddEntry(h1,"Z'(20TeV)#rightarrowt#bar{t}#rightarrow3 jet","l")
-                leg.AddEntry(h1,"Z'#rightarrowW^{+}W^{-}#rightarrow2 jet","l")
-                leg.AddEntry(h2,"Z'#rightarrowq#bar{q}#rightarrow2 jet","l")
+                leg.AddEntry(h1,"Z'#rightarrowW^{+}W^{-}#rightarrow2 jets","l")
+                leg.AddEntry(h2,"Z'#rightarrowq#bar{q}#rightarrow2 jets","l")
                 leg.AddEntry("","Median:","")
                 leg.AddEntry("",str((p)*5)+" to "+str((p+1)*5),"")
                 print str((p)*5), str((p+1)*5)
+                h1.Rebin(4)
+                h2.Rebin(4)
 
                 if(h1.GetBinContent(h1.GetMaximumBin())>h2.GetBinContent(h2.GetMaximumBin())):
-                    h1.Rebin(2)
-                    h2.Rebin(2)
                     h1.Draw("hist")
                     h2.Draw("histsame")
                 else:
-                    h1.Rebin(2)
-                    h2.Rebin(2)
                     h2.Draw("hist")
                     h1.Draw("histsame")
                 
@@ -252,19 +250,19 @@ for k in range(0,4):
                 print str(h1.Integral()/2)
                 
                 #leg.AddEntry(h1,"Z'(20TeV)#rightarrowt#bar{t}#rightarrow3 jet","l")
-                leg.AddEntry(h1,"Z'#rightarrowW^{+}W^{-}#rightarrow2 jet","l")
-                leg.AddEntry(h2,"Z'#rightarrowq#bar{q}#rightarrow2 jet","l")
+                leg.AddEntry(h1,"Z'#rightarrowW^{+}W^{-}#rightarrow2 jets","l")
+                leg.AddEntry(h2,"Z'#rightarrowq#bar{q}#rightarrow2 jets","l")
                 leg.AddEntry("","Median:","")
                 leg.AddEntry("",str((p)*5)+" to "+str((p+1)*5),"")
                 
                 if(h1.GetBinContent(h1.GetMaximumBin())>h2.GetBinContent(h2.GetMaximumBin())):
-                    h1.Rebin(2)
-                    h2.Rebin(2)
+                    h1.Rebin(4)
+                    h2.Rebin(4)
                     h1.Draw("hist")
                     h2.Draw("histsame")
                 else:
-                    h1.Rebin(2)
-                    h2.Rebin(2)
+                    h1.Rebin(4)
+                    h2.Rebin(4)
                     h2.Draw("hist")
                     h1.Draw("histsame")
             
@@ -339,19 +337,19 @@ for k in range(0,4):
                 print str(h1.Integral()/2)
                 
                 #leg.AddEntry(h1,"Z'(20TeV)#rightarrowt#bar{t}#rightarrow3 jet","l")
-                leg.AddEntry(h1,"Z'#rightarrowt#bar{t}#rightarrow2 jet","l")
-                leg.AddEntry(h2,"Z'#rightarrowq#bar{q}#rightarrow2 jet","l")
+                leg.AddEntry(h1,"Z'#rightarrowt#bar{t}#rightarrow2 jets","l")
+                leg.AddEntry(h2,"Z'#rightarrowq#bar{q}#rightarrow2 jets","l")
                 leg.AddEntry("","Median:","")
                 leg.AddEntry("",str((p)*5)+" to "+str((p+1)*5),"")
                 
                 if(h1.GetBinContent(h1.GetMaximumBin())>h2.GetBinContent(h2.GetMaximumBin())):
-                    h1.Rebin(2)
-                    h2.Rebin(2)
+                    h1.Rebin(4)
+                    h2.Rebin(4)
                     h1.Draw("hist")
                     h2.Draw("histsame")
                 else:
-                    h1.Rebin(2)
-                    h2.Rebin(2)
+                    h1.Rebin(4)
+                    h2.Rebin(4)
                     h2.Draw("hist")
                     h1.Draw("histsame")
                 
