@@ -23,7 +23,7 @@ print files_array[0],files_array[1],files_array[2]
 l=9
 p=1
 #---------------------------------------------setting the hisotgram in and normalize
-for k in range(1,2):
+for k in range(0,4):
     if(variable[k]=="mass_mmdt_tt"):
         for n in range(0,3):
             for m in range(0,1):
