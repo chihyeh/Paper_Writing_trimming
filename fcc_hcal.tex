@@ -156,6 +156,9 @@ Studies of granularity of a hadronic calorimeter for tens-of-TeV jets  at a 100~
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\author[add3]{Chih-Hsiang Yeh}
+\ead{jwzuzelski18@gmail.com}
+
 \author[add1]{S.V.~Chekanov}
 \ead{chekanov@anl.gov}
 
@@ -173,9 +176,6 @@ Studies of granularity of a hadronic calorimeter for tens-of-TeV jets  at a 100~
 
 \author[add3]{S.-S.~Yu}
 \ead{syu@cern.ch}
-
-\author[add3]{Chih-Hsiang Yeh}
-\ead{jwzuzelski18@gmail.com}
 
 \address[add1]{
 HEP Division, Argonne National Laboratory,
@@ -203,7 +203,11 @@ Department of Physics, National Central University, Chung-Li, Taoyuan City 32001
 
 
 \begin{abstract}
-Texts
+Jet substructure if hadronic jets with transverse momenta in the range from 2.5 TeV to 20 TeV
+were studied using several designs for spacial size of calorimeter cells. The studies  using full simulation 
+of calorimeter response complimented with the reconstruction of calorimeter clusters for jet reconstruction. 
+The results unambiguously indicate that performance of jet substructure reconstruction 
+improves with reducing the cell sizes. 
 
 \end{abstract}
 
@@ -243,9 +247,9 @@ shape of hadronic showers  calculated using calorimeter hits
 for two particles separated  by some angle. It was concluded that high granularity is essential 
 in resolving two close-by particles for energies above 100 GeV. 
 
-This paper makes another step in understanding understanding of this problem in terms 
+This paper makes another step in  understanding of this problem in terms 
 of high-level physics quantities typically used in physics analyses.
-Similar to the studies presented in \cite{Chekanov:2016ppq}, this paper is based on full
+Similar to the studies presented in \cite{Chekanov:2016ppq}, this paper is based on a full
 Geant4 simulation with realistic jet reconstruction.
 
 \section{Simulation of detector response and event reconstruction}
@@ -268,7 +272,7 @@ In the following discussion, we use the simulations of a heavy $Z'$ boson,
 a hypothetical gauge boson  that arises from extensions of the electroweak symmetry of the Standard Model.
 The $Z'$ bosons were simulated with the masses, $M=5$, $10$, $20$ and $40$~TeV. The lowest value 
 represents a typical mass that is within the reach of the LHC experiments. The  value $40$~TeV 
-represents the physics reach of 100~TeV colliders. The $Z'$ particles are forced to decay to 
+represents the physics reach for a  100~TeV collider. The $Z'$ particles are forced to decay 
 to two light-flavor jets ($q\bar{q}$), $W^+W^-$ or $t\bar{t}$, where
 $W$ and $t$ decay hadronically. In all such scenarios, two highly boosted
 jets are produced,  which are typically back-to-back in the laboratory frame.
@@ -276,7 +280,7 @@ Typical transverse momenta of such jets are $\simeq M/2$.
 The main difference between considered decay types lays in different jet substructure. In the case of the $q\bar{q}$ decays,
 jets do not have any internal structure. In the case of  $W^+W^-$, each jet  originates from $W$, thus it has two
 subjects because of the decay $W\rightarrow q\bar{q}$. In the case of hadronic top decays, jets have three subjects due
-to the decay $t \rightarrow  W^+\>b \rightarrow q\bar{q} b$    
+to the decay $t \rightarrow  W^+\>b \rightarrow q\bar{q} b$.    
 The signal events were generated using the \pythia generator with the default settings,
 ignoring interference with SM processes.
 The event samples used in this paper are  available from the
