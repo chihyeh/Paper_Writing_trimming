@@ -124,4 +124,45 @@ J.~Thaler, K.~Van~Tilburg, {Identifying Boosted Objects with N-subjettiness},
   \href {http://dx.doi.org/10.1007/JHEP03(2011)015}
   {\path{doi:10.1007/JHEP03(2011)015}}.
 
+\bibitem{Larkoski:2014wba}
+A.~J. Larkoski, S.~Marzani, G.~Soyez, J.~Thaler, {Soft Drop}, JHEP 05 (2014)
+  146.
+\newblock \href {http://arxiv.org/abs/1402.2657} {\path{arXiv:1402.2657}},
+  \href {http://dx.doi.org/10.1007/JHEP05(2014)146}
+  {\path{doi:10.1007/JHEP05(2014)146}}.
+
+\bibitem{Dokshitzer:1997in}
+Y.~L. Dokshitzer, G.~D. Leder, S.~Moretti, B.~R. Webber, {Better jet clustering
+  algorithms}, JHEP 08 (1997) 001.
+\newblock \href {http://arxiv.org/abs/hep-ph/9707323}
+  {\path{arXiv:hep-ph/9707323}}, \href
+  {http://dx.doi.org/10.1088/1126-6708/1997/08/001}
+  {\path{doi:10.1088/1126-6708/1997/08/001}}.
+
+\bibitem{Wobisch:1998wt}
+M.~Wobisch, T.~Wengler, {Hadronization corrections to jet cross-sections in
+  deep inelastic scattering}, in: {Monte Carlo generators for HERA physics.
+  Proceedings, Workshop, Hamburg, Germany, 1998-1999}, 1998, pp. 270--279.
+\newblock \href {http://arxiv.org/abs/hep-ph/9907280}
+  {\path{arXiv:hep-ph/9907280}}.
+
+\bibitem{Catani:246812}
+S.~Catani, Y.~L. Dokshitzer, M.~H. Seymour, B.~R. Webber,
+  Longitudinally-invariant k$_{\perp}$-clustering algorithms for hadron-hadron
+  collisions, Nucl. Phys. B 406~(CERN-TH-6775-93. LU-TP-93-2) (1993) 187--224.
+
+\bibitem{Dreyer:2018tjj}
+F.~A. Dreyer, L.~Necib, G.~Soyez, J.~Thaler, {Recursive Soft Drop}, JHEP 06
+  (2018) 093.
+\newblock \href {http://arxiv.org/abs/1804.03657} {\path{arXiv:1804.03657}},
+  \href {http://dx.doi.org/10.1007/JHEP06(2018)093}
+  {\path{doi:10.1007/JHEP06(2018)093}}.
+
+\bibitem{Larkoski:2013eya}
+A.~J. Larkoski, G.~P. Salam, J.~Thaler, {Energy Correlation Functions for Jet
+  Substructure}, JHEP 06 (2013) 108.
+\newblock \href {http://arxiv.org/abs/1305.0007} {\path{arXiv:1305.0007}},
+  \href {http://dx.doi.org/10.1007/JHEP06(2013)108}
+  {\path{doi:10.1007/JHEP06(2013)108}}.
+
 \end{thebibliography}
