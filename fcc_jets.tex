@@ -3,13 +3,31 @@
 
 First let us consider several variables that represent jet substructure using different types
 of calorimeter granularity. The question we want to answer is how close the reconstructed
-jet substructure variables to the input "truth" value that are reconstructed using 
+jet substructure variables reflect the input ``truth'' values  that are reconstructed using 
 input particles directly from the \pythia generator.
 
-
+In this study we use the jet effective radius and jet splitting scales as benchmark variables
+to study jet substructure properties for different calorimeter granularity scenarios. 
 The effective radius is the average of the energy weighted radial distance in $\eta-\phi$ space of jet constituents.
 Recently, it has been studied for multi-TeV jets in Ref.\cite{Auerbach:2014xua}.
- 
+A jet $k_T$ splitting scale \cite{Butterworth:2002tt} is defined as a distance measure
+used to form jets by the $k_T$ recombination
+algorithm \cite{Catani1993187,Ellis:1993tq}.
+This variable has been studied by ATLAS~\cite{ATLAS:2012am}, and more recently in the context of 100 TeV physics \cite{Auerbach:2014xua}.
+The splitting scale is defined as 
+$\sqrt{d_{12}}=\min(p_T^1,p_T^2) \times \delta R_{12}$ \cite{ATLAS:2012am} at the final stage of the $k_T$ clustering, where two subjets are merged into the final one.
+
+Figures~\ref{fig:eff_rad} and  \ref{fig:d12} show the distributions of 
+the jet effective radius and jet splitting scale for  different jet transverse momenta and HCAL granularities.
+The reconstructed-level distributions significantly disagree with the distributions  
+reconstructed using truth-level particles. The distribution reconstructed with the cell
+sizes 1~cm$\times$1~cm are closest to the truth-level variables. The distributions 
+reconstructed using the cell size of 20~cm$\times$20~cm, which is similar to the nuclear interaction length
+of $Fe$ ($\lambda_I\simeq 17$~cm) the SiFCC calorimeter  \cite{Chekanov:2016ppq}, show the largest discrepancy with the
+truth-level variables. Note that, in terms of closeness of reconstructed distributions to the truth level, 
+there is no significant difference between 5~cm$\times$5~cm,  2~cm$\times$2~cm and  1~cm$\times$1~cm choices. 
+Both the ATLAS and CMS detectors use cell sizes which are close to the nuclear interaction length of
+the HCAL cells. 
 
 \begin{figure}
 \begin{center}
@@ -31,14 +49,6 @@ Recently, it has been studied for multi-TeV jets in Ref.\cite{Auerbach:2014xua}.
 \end{figure}
 
 
-Let us study the effect of granularity on jet splitting scales.
-A jet $k_T$ splitting scale \cite{Butterworth:2002tt} is defined as a distance measure
-used to form jets by the $k_T$ recombination
-algorithm \cite{Catani1993187,Ellis:1993tq}.
-This has been studied by ATLAS~\cite{ATLAS:2012am}, and more recently in the context of 100 TeV physics \cite{Auerbach:2014xua}.
-The distribution of the splitting scale $\sqrt{d_{12}}=\min(p_T^1,p_T^2) \times \delta R_{12}$ \cite{ATLAS:2012am} at the final stage of the $k_T$ clustering, where two subjets are merged into the final one,
-is shown in Fig.~\ref{fig:d12}.
-
 \begin{figure}
 \begin{center}
    \subfigure[5 TeV] {
@@ -59,6 +69,9 @@ is shown in Fig.~\ref{fig:d12}.
 \end{figure}
 
 
+%%%%%%%%%%%%%%% commented out 
+\begin{comment}
+
 \subsection{Jet subjettiness}
 
 We recall that $N$-subjettiness~\cite{Thaler:2010tr}, $\tau_{N}$, of jets has been proposed
@@ -70,10 +83,6 @@ The variable, $\tau_{21} \equiv \tau_2/\tau_1$ can be used to reject background 
 These variables do not strongly correlate with jet mass and can provide an independent check for the
 presence of top quarks.
 The jet substructure variables were obtained by re-running the $k_T$ algorithm over the jet constituents of anti-$k_T$ jets.
-
-%%%%%%%%%%%%%%% commented out 
-\begin{comment}
-
 
 As an example of the effect of the calorimeter granularity, 
 \begin{figure}
