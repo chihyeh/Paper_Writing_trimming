@@ -1,9 +1,7 @@
-This is BibTeX, Version 0.99d (TeX Live 2017)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
 The top-level auxiliary file: fcc_hcal.aux
 The style file: elsarticle-num.bst
 Database file #1: biblio.bib
-Warning--I didn't find a database entry for ""
 Warning--empty journal in Benedikt:2206376
 Warning--empty pages in Calkins:2013ega
 Warning--empty journal in Chekanov:2015ihl
@@ -52,4 +50,4 @@ warning$ -- 7
 while$ -- 44
 width$ -- 27
 write$ -- 255
-(There were 8 warnings)
+(There were 7 warnings)
