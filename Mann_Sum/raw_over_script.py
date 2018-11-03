@@ -52,7 +52,8 @@ if(variable[k]=="tau21"):
     mg.GetYaxis().SetLabelFont(22)
     mg.GetXaxis().SetTitleFont(22)
     mg.GetYaxis().SetTitleFont(22)
-
+    mg.GetXaxis().SetTitleSize(0.05)
+    mg.GetYaxis().SetTitleSize(0.05)
 
     leg1 = TLegend(0.1,0.65,0.6,0.9)
     leg1.SetFillColor(0)
@@ -121,7 +122,8 @@ if(variable[k+1]=="tau32"):
     mg.GetYaxis().SetLabelFont(22)
     mg.GetXaxis().SetTitleFont(22)
     mg.GetYaxis().SetTitleFont(22)
-    
+    mg.GetXaxis().SetTitleSize(0.05)
+    mg.GetYaxis().SetTitleSize(0.05)
     
     leg1 = TLegend(0.1,0.65,0.6,0.9)
     leg1.SetFillColor(0)
@@ -190,7 +192,9 @@ if(variable[k+2]=="c2b1"):
     mg.GetYaxis().SetLabelFont(22)
     mg.GetXaxis().SetTitleFont(22)
     mg.GetYaxis().SetTitleFont(22)
-    
+    mg.GetXaxis().SetTitleSize(0.05)
+    mg.GetYaxis().SetTitleSize(0.05)
+
     
     leg1 = TLegend(0.1,0.65,0.6,0.9)
     leg1.SetFillColor(0)
