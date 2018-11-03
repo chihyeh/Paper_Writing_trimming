@@ -75,7 +75,10 @@ for k in range(0,3):
                 h2.GetXaxis().SetLabelFont(22)
                 h1.GetYaxis().SetLabelFont(22)
                 h2.GetYaxis().SetLabelFont(22)
-
+                h1.GetXaxis().SetTitleSize(0.04)
+                h2.GetXaxis().SetTitleSize(0.04)
+                h1.GetYaxis().SetTitleSize(0.05)
+                h2.GetYaxis().SetTitleSize(0.05)
 
 
 
@@ -155,7 +158,10 @@ for k in range(0,3):
                 h2.GetXaxis().SetLabelFont(22)
                 h1.GetYaxis().SetLabelFont(22)
                 h2.GetYaxis().SetLabelFont(22)
-                
+                h1.GetXaxis().SetTitleSize(0.04)
+                h2.GetXaxis().SetTitleSize(0.04)
+                h1.GetYaxis().SetTitleSize(0.05)
+                h2.GetYaxis().SetTitleSize(0.05)
                 
                 
                 
@@ -233,7 +239,10 @@ for k in range(0,3):
                 h2.GetYaxis().SetLabelFont(22)
                 h1.GetXaxis().SetRangeUser(0,0.2)
                 h2.GetXaxis().SetRangeUser(0,0.2)
-
+                h1.GetXaxis().SetTitleSize(0.04)
+                h2.GetXaxis().SetTitleSize(0.04)
+                h1.GetYaxis().SetTitleSize(0.05)
+                h2.GetYaxis().SetTitleSize(0.05)
 
                 
                 

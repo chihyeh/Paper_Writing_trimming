@@ -74,7 +74,11 @@ for k in range(0,4):
                 h2.GetXaxis().SetLabelFont(22)
                 h1.GetYaxis().SetLabelFont(22)
                 h2.GetYaxis().SetLabelFont(22)
-                
+                h1.GetYaxis().SetTitleSize(0.05)
+                h2.GetYaxis().SetTitleSize(0.05)
+                h1.GetXaxis().SetTitleSize(0.05)
+                h2.GetXaxis().SetTitleSize(0.05)
+
                 #Get bin numebr
                 numbin=h1.GetXaxis().GetNbins()
                 print str(numbin)
@@ -161,6 +165,10 @@ for k in range(0,4):
                 h2.GetXaxis().SetLabelFont(22)
                 h1.GetYaxis().SetLabelFont(22)
                 h2.GetYaxis().SetLabelFont(22)
+                h1.GetYaxis().SetTitleSize(0.05)
+                h2.GetYaxis().SetTitleSize(0.05)
+                h1.GetXaxis().SetTitleSize(0.05)
+                h2.GetXaxis().SetTitleSize(0.05)
                 numbin=h1.GetXaxis().GetNbins()
                 for p in range(1,numbin):
                     if (h1.Integral(1,p)<(h1.Integral()/2)<h1.Integral(1,p+1)):
@@ -239,9 +247,10 @@ for k in range(0,4):
                 h2.GetXaxis().SetLabelFont(22)
                 h1.GetYaxis().SetLabelFont(22)
                 h2.GetYaxis().SetLabelFont(22)
-                
-                
-                
+                h1.GetYaxis().SetTitleSize(0.05)
+                h2.GetYaxis().SetTitleSize(0.05)
+                h1.GetXaxis().SetTitleSize(0.05)
+                h2.GetXaxis().SetTitleSize(0.05)
                 numbin=h1.GetXaxis().GetNbins()
                 print str(numbin)
                 for p in range(1,numbin):
@@ -326,8 +335,11 @@ for k in range(0,4):
                 h2.GetXaxis().SetLabelFont(22)
                 h1.GetYaxis().SetLabelFont(22)
                 h2.GetYaxis().SetLabelFont(22)
-                
-                
+                h1.GetYaxis().SetTitleSize(0.05)
+                h2.GetYaxis().SetTitleSize(0.05)
+                h1.GetXaxis().SetTitleSize(0.05)
+                h2.GetXaxis().SetTitleSize(0.05)
+
                 
                 numbin=h1.GetXaxis().GetNbins()
                 print str(numbin)
