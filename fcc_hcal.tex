@@ -204,10 +204,12 @@ Trowbridge Road, East Lansing, MI 48824
 Jet substructure variables for hadronic jets with transverse momenta in the range from 2.5~TeV to 20~TeV
 were studied using several designs for spacial size of calorimeter cells. The studies  used 
 the full Geant4 simulation 
-of calorimeter response combined with realistic reconstruction of calorimeter clusters used 
-in jet reconstruction. 
-n most cases considered in this study the results indicate that the performance of jet-substructure reconstruction improves with reducing cell sizes from 20 cm x 20 cm to 5 cm x 5 cm .
- 
+of calorimeter response combined with realistic reconstruction of calorimeter clusters.
+In most cases considered in this study the results indicate that the performance of jet-substructure 
+reconstruction improves with reducing cell sizes of a hadronic calorimeter 
+from $\Delta \eta \times \Delta \phi = 0.1\times0.1$
+to $0.022\times0.022$. 
+
 
 \end{abstract}
 
@@ -233,7 +235,7 @@ future circular $pp$ colliders of the European initiative, FCC-hh~\cite{Benedikt
 collimated decay products that form jets.  Studies of jet substructure can help identify such particles.
 
 The reconstruction of jet substructure  variables for collimated jets with transverse momentum above 10 TeV 
-require an appropriate detector design. The most important for reconstruction of such jets are tracking and calorimeter.
+requires an appropriate detector design. The most important for reconstruction of such jets are tracking and calorimeter.
 Recently, a number of studies \cite{Calkins:2013ega,Chekanov:2015ihl,Coleman:2017fiq} 
 have been discussed using various fast simulation tools, such as 
 Delphes  \cite{deFavereau:2013fsa}, in which momenta of particles
@@ -252,13 +254,30 @@ of high-level physics quantities typically used in physics analyses.
 Similar to the studies presented in \cite{Chekanov:2016ppq}, this paper is based on a full
 Geant4 simulation with realistic jet reconstruction.
 
-\section{Simulation of detector response and event reconstruction}
- 
-The description of the detector and software used for this study is discussed in \cite{Chekanov:2016ppq}. 
+\section{Simulation of detector response}
+
+The description of the detector and software used for this study is discussed in \cite{Chekanov:2016ppq}.
 We use the SiFCC detector geometry with a software package that
 represents a versatile environment for simulations
-of detector performance, testing new technology options, event reconstruction techniques for future
+of detector performance, testing new technology options, an event reconstruction techniques for future
 100~TeV colliders.
+
+
+The baseline  detector discussed in \cite{Chekanov:2016ppq}
+uses a  steel-scintillator hadronic calorimeter with a transverse cell size of 5~$\times$~5~cm$^2$,
+which corresponds to $\Delta \eta \times \Delta \phi = 0.022\times0.022$,
+where $\eta$ is the pseudorapidity,
+$\eta \equiv -\ln\tan(\theta/2)$, and $\phi$ is the azimuthal angle.
+The depth of the HCAL
+in the barrel region is about 11.25 interaction lengths ($\lambda_I$).
+The HCAL has 64 longitudinal layers in the barrel and the endcap regions.
+
+In addition, to the baseline HCAL geometry,
+several geometry variations were considered.
+We used the HCAL with the cells that have the transverse size of
+20~$\times$~20~cm$^2$, 2~$\times$2~cm$^2$ and  1~$\times$1~cm$^2$.
+In the terms of $\Delta \eta \times \Delta \phi$,  such cell sizes correspond to
+$0.1\times0.1$, $0.01\times0.01$ and  $0.005\times0.005$, respectively.
 
 The \GEANTfour\ (version 10.3)~\cite{Allison2016186} simulation of calorimeter response was complemented 
 with the full reconstruction of calorimeter clusters formed by the Pandora algorithm \cite{Charles:2009ta,Marshall:2013bda}.
