@@ -33,7 +33,7 @@ the two-prong jets from W or the three-prong jets from top.
 We use the ROC curves as described in Section~\ref{sec:massana} to 
 analyze the detector performance and determine the cell size that gives the 
 best separation power to distinguish signal from background. 
-Following the suggestion by Ref.~\cite{Dreyer:2018tjj}, requirement on the 
+Following the suggestion by Ref.~\cite{Dreyer:2018tjj}, the requirement on the 
 soft drop mass with $\beta=0$ is applied before the study of $N$-subjettiness. 
 For each detector configuration and c.m. energy, the soft drop mass selection 
 is determined as follows. First, we look for the median bin of the soft drop 
@@ -46,7 +46,7 @@ repeated until the window contains at least 75\% of the total number of signal
 events. 
 
 In order to obtain the signal and background efficiencies, 
-various ranges of the $\tau_{21}$ and $\tau_{32}$ are scanned. 
+various ranges of $\tau_{21}$ and $\tau_{32}$ are scanned. 
 Since some of the background distributions have long tails and leak into the 
 signal-dominated region, we use the following method as suggested by the 
 Pearson Lemma Method to determine the ranges of $\tau$ variables. 
@@ -71,23 +71,24 @@ signal and background separation.
 %First, we select the events in mass window by using SD with $\beta=0$ and 75$\%$ signal efficiency. Then, we find the highest ratio bin to be our seed bin. Next, we compare the left and right of ratio bin, and add the higher bin to be our width. Finally,  We can use this width to draw the ROC curves.\\
 Figures~\ref{fig:Rawhit_05GeV_tau21_Dis} and~\ref{fig:Rawhit_05GeV_tau32_Dis} 
 show the distributions of $\tau_{21}$ and $\tau_{32}$ for $\sqrt{s}=20$~TeV 
-after applying requirement on the soft drop mass. The signals considered are 
-Z'$\rightarrow$WW ($\tau_{21}$) and 
-Z'$\rightarrow\mathrm{t}\bar{\mathrm{t}}$ ($\tau_{32}$). 
+after applying the requirement on the soft drop mass. The signals considered are 
+$Z'\rightarrow WW$ ($\tau_{21}$) and 
+$Z' \rightarrow t\bar{t}$ ($\tau_{32}$). 
 Figures~\ref{fig:Rawhit_05GeV_tau21_ROC} and~\ref{fig:Rawhit_05GeV_tau32_ROC} 
 present the ROC curves from different detector cell sizes and c.m. energies, 
 respectively. The smallest detector cell size ($1\times1~\mathrm{cm}^2$) 
 does not have the best separation power. In fact, in some cases, 
-the best separation power comes from detector with bigger cell sizes 
+the best separation power comes from a detector with bigger cell sizes 
 ($5\times5~\mathrm{cm}^2$ and $20\times20~\mathrm{cm}^2$).
 
 Figures~\ref{fig:Rawhit_05GeV_total_Mann} (a) and (b) present the summary plots of $\tau_{21}$ and $\tau_{32}$ with various detector cell sizes and c.m. energies using Mann Whitney U test. For $\tau_{21}$ at smaller c.m. energies, when 
-cell size is smaller, the detector performance improves. However, 
+the cell size is smaller, the detector performance improves. However, 
 when c.m. energy increases, no improvement 
 is observed using the smallest detector cell size ($1\times1~\mathrm{cm}^2$). 
-For $\tau_{32}$, the case is similar to  $\tau_{21}$. Even worse, with some 
-c.m. energies, the bigger detector cell sizes ($5\times5~\mathrm{cm}^2$ and $20\times20~\mathrm{cm}^2$) have better separation power than the smallest 
-detector size. 
+For $\tau_{32}$, the case is similar to  $\tau_{21}$. It is interesting to note that at very large  
+c.m. energies, the large detector cell sizes ($5\times5~\mathrm{cm}^2$ and $20\times20~\mathrm{cm}^2$) have a 
+better separation power than the smallest 
+cell  size considered in this analysis. 
 
 \subsection{Energy correlation function \label{sec:ecf}}
 The energy correlation function (ECF)~\cite{Larkoski:2013eya} is defined as follows: 
@@ -109,7 +110,7 @@ The idea of $r_N$ comes from N-subjettiness $\tau_N$. Both $r_N$ and $\tau_N$
 are linear in the energy of the soft radiation for a system of $N$ partons 
 with soft radiation. In general, if the system has N subjets, $ECF(N+1,\beta)$ 
 should be significantly smaller than $ECF(N,\beta)$. Therefore, we can use this
- feature to distinguish jets with different number of subjets. 
+ feature to distinguish jets with different numbers  of subjets. 
 As in Section~\ref{sec:nsub}, the ratio $r_N/r_{N-1}$, denoted by $C_N$, 
 (double ratios of ECFs) is used to study the detector performance: 
 \begin{equation}
@@ -118,7 +119,7 @@ C_{N}^{(\beta)}\equiv\frac{r_{N}^{(\beta)}}{r_{N-1}^{(\beta)}}=\frac{ECF(N-1,\be
 In our analysis, we set $N=2$ and $\beta=1$ ($C_2^1$).
 
 Figure~\ref{fig:Rawhit_05GeV_c2b1_Dis} presents the histograms of $C_{2}^{1}$ 
-with $\sqrt{s}=20$~TeV after making requirement on the soft drop mass. 
+with $\sqrt{s}=20$~TeV after making the requirement on the soft drop mass. 
 The signal considered is Z'$\rightarrow$WW. 
 Figure~\ref{fig:Rawhit_05GeV_c2b1_ROC} shows the ROC curves from different 
 detector cell sizes for each c.m. energy, respectively. One can see that 
@@ -283,9 +284,6 @@ sizes.}
 reconstructed with different collision energies and detector cell sizes. }
 \label{fig:Rawhit_05GeV_total_Mann}
 \end{figure}
-
-
-
 
 
 
