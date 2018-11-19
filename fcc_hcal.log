@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.27)  6 NOV 2018 08:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.27)  19 NOV 2018 21:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2205,25 +2205,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
  (./fcc_hcal.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 344.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 344.
+Package rerunfilecheck Info: File `fcc_hcal.out' has not changed.
+(rerunfilecheck)             Checksum: 6FE896B56E6F09E5363C5FE81EC9DE2C;766.
 
-
-Package rerunfilecheck Warning: File `fcc_hcal.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `fcc_hcal.out':
-(rerunfilecheck)             Before: 97C76BB2805B609718A64F138D2B15AF;731
-(rerunfilecheck)             After:  6FE896B56E6F09E5363C5FE81EC9DE2C;766.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 344.
  ) 
 Here is how much of TeX's memory you used:
- 9104 strings out of 492995
- 155543 string characters out of 6132704
- 264372 words of memory out of 5000000
- 12265 multiletter control sequences out of 15000+600000
+ 9103 strings out of 492995
+ 155533 string characters out of 6132704
+ 264111 words of memory out of 5000000
+ 12264 multiletter control sequences out of 15000+600000
  17621 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,8n,40p,456b,552s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2249,7 +2243,7 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2017/texmf
 dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2017/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2017/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on fcc_hcal.pdf (19 pages, 704318 bytes).
+Output written on fcc_hcal.pdf (19 pages, 704308 bytes).
 PDF statistics:
  1325 PDF objects out of 1440 (max. 8388607)
  1026 compressed objects within 11 object streams
