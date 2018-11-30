@@ -1,5 +1,4 @@
-\section{Detector performance with jet substructure variables}
-
+\section{Study of detector performance with jet substructure variables}
 In this section, we use several jet substructure variables to study the performance of detector with various detector cell sizes and c.m. energies.
 %%By definition of Mann Whitney U test, if U value is close to 0.5, it means two distributions have similar compositions, and we can not distinguish them very well. On the other hand, if U value of two distributions are close to 0, it means both compositions of both distribution are much different from each other.\\
 
@@ -20,8 +19,8 @@ between the constituent particle $k$ and the candidate subjet axis $j$ in the
 $y-\phi$ plane. The $R_{0}$ is the characteristic jet radius used in 
 the anti-$k_t$ jet algorithm. 
 
-In this analysis, the anti-$k_t$ algorithm with $R=0.4$ (AK4) is first 
-employed to reconstruct jets. The subjet axes are obtained by running the 
+This analysis uses the jet reconstruction described in Sect.~\ref{sec:sim}. 
+The subjet axes are obtained by running the 
 exclusive $k_{t}$ algorithm~\cite{Catani:246812} and reversing the last N clustering steps. 
 Namely, when $\tau_N$ is computed, the $k_{t}$ algorithm is forced to return 
 exactly $N$ jets. If a large radius jet has $N$ subjet(s), its $\tau_{N}$ is 
@@ -152,21 +151,21 @@ are shown here. \label{fig:Rawhit_05GeV_tau21_Dis}}
 
 \begin{figure}
 \begin{center}
-   \subfigure[$Z'$ (5 TeV)] {
+   \subfigure[Z'(5 TeV)] {
    \includegraphics[width=0.43\textwidth]{ROC_Tau_C/Rawhit_05GeV_tau21_5tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps}
    }
-   \subfigure[$Z'$ (10 TeV)] {
+   \subfigure[Z'(10 TeV)] {
    \includegraphics[width=0.43\textwidth]{ROC_Tau_C/Rawhit_05GeV_tau21_10tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps}
    }
-   \subfigure[$Z'$ (20 TeV)] {
+   \subfigure[Z'(20 TeV)] {
    \includegraphics[width=0.43\textwidth]{ROC_Tau_C/Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps}
    }
-   \subfigure[$Z'$ (40 TeV)] {
+   \subfigure[Z'(40 TeV)] {
    \includegraphics[width=0.43\textwidth]{ROC_Tau_C/Rawhit_05GeV_tau21_40tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps}
    }
 \end{center}
 \caption{Signal efficiency versus background rejection rate using $\tau_{21}$.
-The energies of collision at (a) 5, (b) 10, (c) 20 and (d) 40~TeV are shown 
+The energies of collision at (a) 5, (b) 10, (c) 20, and (d) 40~TeV are shown 
 here. 
 In each figure, the three ROC curves correspond to different detector sizes.
 \label{fig:Rawhit_05GeV_tau21_ROC}
@@ -212,7 +211,7 @@ are shown here.
    }
 \end{center}
 \caption{Signal efficiency versus background rejection rate using $\tau_{32}$. 
-The energies of collision at (a) 5, (b) 10, (c) 20 and (d) 40~TeV are shown 
+The energies of collision at (a) 5, (b) 10, (c) 20, and (d) 40~TeV are shown 
 here. In each figure, the three ROC curves correspond to different detector 
 sizes.
 \label{fig:Rawhit_05GeV_tau32_ROC}
