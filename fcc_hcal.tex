@@ -207,7 +207,7 @@ the full Geant4 simulation
 of calorimeter response combined with realistic reconstruction of calorimeter clusters.
 In most cases considered in this study the results indicate that the performance of jet-substructure 
 reconstruction improves with reducing cell sizes of a hadronic calorimeter 
-from $\Delta \eta \times \Delta \phi = 0.087\times0.087$
+from $\Delta \eta \times \Delta \phi = 0.1\times0.1$
 to $0.022\times0.022$. 
 
 
@@ -232,12 +232,10 @@ multi-TeV physics, $pp$ collider, future hadron colliders, FCC, SppC
 Particle collisions at energies  beyond those attained at the LHC will lead to many challenges for detector technologies.
 Future experiments, such as high-energy LHC (HE-LHC),
 future circular $pp$ colliders of the European initiative, FCC-hh~\cite{Benedikt:2206376} and the Chinese initiative, SppC~\cite{Tang:2015qga} will be required to measure high-momentum bosons ($W$, $Z$, $H$) and top quarks with strongly 
-collimated decay products that form jets. 
-Jet substructure techniques are used
-to identify such highly boosted particles, and thus can maximize the physics potential of the future colliders.
+collimated decay products that form jets.  Studies of jet substructure can help identify such particles.
 
 The reconstruction of jet substructure  variables for collimated jets with transverse momentum above 10 TeV 
-requires an appropriate detector design. The most important for reconstruction of such jets are tracking and calorimetry.
+requires an appropriate detector design. The most important for reconstruction of such jets are tracking and calorimeter.
 Recently, a number of studies \cite{Calkins:2013ega,Chekanov:2015ihl,Coleman:2017fiq} 
 have been discussed using various fast simulation tools, such as 
 Delphes  \cite{deFavereau:2013fsa}, in which momenta of particles
@@ -245,7 +243,7 @@ are smeared to mimic detector response.
 
 A major step towards the usage of full Geant4 simulation to verify the granularity requirements 
 for calorimeters was made in \cite{Chekanov:2016ppq}.
-These studies have illustrated a significant impact 
+The studies included in this paper have illustrated a significant impact 
 of granularity of electromagnetic (ECAL) and hadronic (HCAL) calorimeters on the
 shape of hadronic showers  calculated using calorimeter hits 
 for two particles separated  by some angle. It was concluded that high granularity is essential 
@@ -257,12 +255,11 @@ Similar to the studies presented in \cite{Chekanov:2016ppq}, this paper is based
 Geant4 simulation with realistic jet reconstruction.
 
 \section{Simulation of detector response}
-\label{sec:sim}
 
 The description of the detector and software used for this study is discussed in \cite{Chekanov:2016ppq}.
 We use the SiFCC detector geometry with a software package that
 represents a versatile environment for simulations
-of detector performance, testing new technology options, and event reconstruction techniques for future
+of detector performance, testing new technology options, an event reconstruction techniques for future
 100~TeV colliders.
 
 
@@ -280,7 +277,7 @@ several geometry variations were considered.
 We used the HCAL with the cells that have the transverse size of
 20~$\times$~20~cm$^2$, 2~$\times$2~cm$^2$ and  1~$\times$1~cm$^2$.
 In the terms of $\Delta \eta \times \Delta \phi$,  such cell sizes correspond to
-$0.087\times0.087$, $0.0087\times 0.0087$ and  $0.0043\times0.0043$, respectively.
+$0.1\times0.1$, $0.01\times0.01$ and  $0.005\times0.005$, respectively.
 
 The \GEANTfour\ (version 10.3)~\cite{Allison2016186} simulation of calorimeter response was complemented 
 with the full reconstruction of calorimeter clusters formed by the Pandora algorithm \cite{Charles:2009ta,Marshall:2013bda}.
@@ -292,16 +289,16 @@ with  a distance parameter of 0.5.
 
 In the following discussion, we use the simulations of a heavy $Z'$ boson, 
 a hypothetical gauge boson  that arises from extensions of the electroweak symmetry of the Standard Model.
-The $Z'$ bosons were simulated with the masses $M=5$, $10$, $20$ and $40$~TeV. The lowest value 
+The $Z'$ bosons were simulated with the masses, $M=5$, $10$, $20$ and $40$~TeV. The lowest value 
 represents a typical mass that is within the reach of the LHC experiments. The  value $40$~TeV 
 represents the physics reach for a  100~TeV collider. The $Z'$ particles are forced to decay 
 to two light-flavor jets ($q\bar{q}$), $W^+W^-$ or $t\bar{t}$, where
 $W$ and $t$ decay hadronically. In all such scenarios, two highly boosted
 jets are produced,  which are typically back-to-back in the laboratory frame.
-The typical transverse momenta of such jets are $\simeq M/2$.
+Typical transverse momenta of such jets are $\simeq M/2$.
 The main difference between considered decay types lays in different jet substructure. In the case of the $q\bar{q}$ decays,
 jets do not have any internal structure. In the case of  $W^+W^-$, each jet  originates from $W$, thus it has two
-subjets  because of the decay $W\rightarrow q\bar{q}$. In the case of hadronic top decays, jets have three subjets due
+subjects because of the decay $W\rightarrow q\bar{q}$. In the case of hadronic top decays, jets have three subjects due
 to the decay $t \rightarrow  W^+\>b \rightarrow q\bar{q} b$.    
 The signal events were generated using the \pythia generator with the default settings,
 ignoring interference with SM processes.
