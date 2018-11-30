@@ -1,8 +1,9 @@
-\section{Study of detector performance with soft drop mass}
+\section{Detector performance with soft drop mass}
 
 In this section, we use the jet mass computed with a specific algorithm, soft 
 drop declustering, to study the performance of detector with various detector 
 cell sizes and center-of-mass (c.m.) energies. 
+
 \subsection{The technique of soft drop declustering}
 The soft drop declustering~\cite{Larkoski:2014wba} is a grooming method 
 that removes soft wide-angle radiation from a jet. The constituents of a jet 
@@ -22,8 +23,8 @@ $\Delta R_{12}$ is the distance between the two subjets in the
 rapidity-azimuth angle plane ($y$-$\phi$), $R_0$ is the characteristic radius 
 of the original jet, and $\beta$ is the angular exponent.
 
-In our study, we compare the performance of a future detector when setting 
-$\beta=0$ versus when setting $\beta=2$. For $\beta=0$, the soft drop condition 
+In our study, we compare the HCAL performance by comparing  the soft drop mass with 
+$\beta=0$  and $\beta=2$. For $\beta=0$, the soft drop condition 
 depends only on the $z_\mathrm{cut}$. For $\beta=2$, the condition depends on 
 the angular distance between the two subjets and $z_\mathrm{cut}$ and the 
 algorithm becomes infrared and collinear safe. 
@@ -55,10 +56,10 @@ the ROC curves.
 \subsection{Results and conclusion}
 
 Figures~\ref{fig:cluster_mass_mmdt_ww}, \ref{fig:cluster_mass_mmdt_tt},
-\ref{fig:cluster_mass_sdb2_ww}, and \ref{fig:cluster_mass_sdb2_tt} 
-show a few representative distributions for the soft drop mass for $\beta=0$ and $\beta=2$ with 
+\ref{fig:cluster_mass_sdb2_ww} and \ref{fig:cluster_mass_sdb2_tt} 
+show the distributions for the soft drop mass for $\beta=0$ and $\beta=2$ with  
 different c.m. energies and detector cell sizes; the signals considered are 
-$Z'\rightarrow WW$ and $Z'\rightarrow t\bar{\mathrm{t}}$. 
+$Z'\rightarrow WW$ and $Z'\rightarrow t\bar{t}$. 
 Figures~\ref{fig:cluster_mass_mmdt_ww_ROC}, \ref{fig:cluster_mass_mmdt_tt_ROC}, 
 \ref{fig:cluster_mass_sdb2_ww_ROC}, and \ref{fig:cluster_mass_sdb2_tt_ROC} 
 show the ROC curves for different detector cell sizes and  
@@ -68,16 +69,23 @@ These studies show that the reconstruction of soft drop mass improves with decre
 Figures~\ref{fig:cluster_mass_mmdt_ww_ROC} and 
 \ref{fig:cluster_mass_mmdt_tt_ROC} show that for $\beta=0$ the 
 smallest detector cell size, 
-$1~\mathrm{cm}\times1~\mathrm{cm}$, has the best separation power at 
+$1\times1$~cm$^2$, has the best separation power at 
 $\sqrt{s}=$5, 10, and 20~TeV when the signal is $Z' \rightarrow WW$,  and 
-at  $\sqrt{s}=$10 and 20~TeV when the signal is $Z' \rightarrow t\bar{\mathrm{t}}$.
+at  $\sqrt{s}=$10 and 20 TeV when the signal is $Z' \rightarrow t\bar{t}$.
 On the contrary, Figs.~\ref{fig:cluster_mass_sdb2_ww_ROC} and \ref{fig:cluster_mass_sdb2_tt_ROC} 
 show that for $\beta=2$ the smallest detector cell size 
 does not have improvements in the separation power with respect to those with 
 larger cell sizes. In fact, the performances of the three cell sizes are 
 similar. In addition, sometimes bigger detector cell sizes, 
-$5~\mathrm{cm}\times5~\mathrm{cm}$ or $20~\mathrm{cm}\times20~\mathrm{cm}$
- have the best separation power. 
+$5\times5$~cm$^2$ or even $20 \times 20$ cm$^2$ have the best separation power. 
+
+Note that the separation between ROC curves depends 
+on the physics variable and on the boost of top-quarks (or $W$). For example, 
+the absence of difference between the ROC curves shown in Fig.~\ref{fig:cluster_mass_mmdt_tt_ROC}(a)
+is due to the insufficient boost of the top quarks.
+From the other hand, Fig.~\ref{fig:cluster_mass_mmdt_tt_ROC}(d) does not show a separation
+between the ROC lines since the boost is too high, therefore, all the considered 
+detector geometries show the same performance.
 
 We also find that the  soft drop mass with $\beta=0$ has better 
 performance for distinguishing signal from background than for  $\beta=2$. Therefore, we will 
@@ -87,18 +95,18 @@ variables.
 %50bins
 \begin{figure}
 \begin{center}
-   \subfigure[20$\times$20(cm$^2$)] {
+   \subfigure[20$\times$20 (cm$^2$)] {
    \includegraphics[ width=0.3\textwidth]{h_soft_drop/Dis_cluster_010_mass_mmdt_20tev_04_no_UOF.eps}
    }
-      \subfigure[5$\times$5(cm$^2$)] {
+      \subfigure[5$\times$5 (cm$^2$)] {
    \includegraphics[ width=0.3\textwidth]{h_soft_drop/Dis_cluster_009_mass_mmdt_20tev_04_no_UOF.eps}\hfill
    }
-   \subfigure[1$\times$1(cm$^2$)] {
+   \subfigure[1$\times$1 (cm$^2$)] {
    \includegraphics[ width=0.3\textwidth]{h_soft_drop/Dis_cluster_012_mass_mmdt_20tev_04_no_UOF.eps}\hfill
    }
 \end{center}
 \caption{Distributions of soft drop mass for $\beta$=0, with 20 TeV c.m. energies and three different detector cell sizes: 20$\times$20, 
-5$\times$5, and 1$\times$1 (cm$^2$). The signal (background) process is 
+5$\times$5 and 1$\times$1 cm$^2$. The signal (background) process is 
 $Z' \rightarrow WW$ ($Z'\rightarrow q\bar{q}$).
 \label{fig:cluster_mass_mmdt_ww}}
 \end{figure}
@@ -122,7 +130,7 @@ $Z' \rightarrow WW$ ($Z'\rightarrow q\bar{q}$).
 \caption{The ROC curves of soft drop mass selection for $\beta$=0 
 with 5, 10, 20, 40 TeV c.m. energies. 
 Three different detector cell sizes are compared: 20$\times$20, 
-5$\times$5, and 1$\times$1 (cm$^2$). 
+5$\times$5, and 1$\times$1 cm$^2$. 
 The signal (background) process is $Z'\rightarrow WW$ 
 ($Z' \rightarrow q\bar{q}$).}
 \label{fig:cluster_mass_mmdt_ww_ROC}
@@ -143,7 +151,7 @@ The signal (background) process is $Z'\rightarrow WW$
 \end{center}
 \caption{
 Distributions of soft drop mass for $\beta$=0, with 20 TeV c.m. energies and three different detector cell sizes: 20$\times$20, 
-5$\times$5, and 1$\times$1 (cm$^2$). The signal (background) process is 
+5$\times$5, and 1$\times$1 cm$^2$. The signal (background) process is 
 $Z' \rightarrow t\bar{t}$ ($Z'\rightarrow q\bar{q}$).
 }
 \label{fig:cluster_mass_mmdt_tt}
@@ -169,7 +177,7 @@ $Z' \rightarrow t\bar{t}$ ($Z'\rightarrow q\bar{q}$).
 The ROC curves of soft drop mass selection for $\beta$=0 
 with 5,10, 20, 40 TeV c.m. energies. 
 Three different detector cell sizes are compared: 20$\times$20, 
-5$\times$5, and 1$\times$1 (cm$^2$). 
+5$\times$5, and 1$\times$1 cm$^2$. 
 The signal (background) process is $Z'\rightarrow t\bar{t}$
 ($Z' \rightarrow q\bar{q}$).
 }
@@ -192,7 +200,7 @@ The signal (background) process is $Z'\rightarrow t\bar{t}$
 \end{center}
 \caption{
 Distributions of soft drop mass for $\beta$=2, with 20 TeV c.m. energies and three different detector cell sizes: 20$\times$20, 
-5$\times$5, and 1$\times$1 (cm$^2$). The signal (background) process is 
+5$\times$5 and 1$\times$1 cm$^2$. The signal (background) process is 
 $Z'\rightarrow WW$ ($Z'\rightarrow q\bar{q}$).
 }
 \label{fig:cluster_mass_sdb2_ww}
@@ -218,7 +226,7 @@ $Z'\rightarrow WW$ ($Z'\rightarrow q\bar{q}$).
 The ROC curves of soft drop mass selection for $\beta$=2
 with 5, 10, 20, 40 TeV c.m. energies. 
 Three different detector cell sizes are compared: 20$\times$20, 
-5$\times$5, and 1$\times$1 (cm$^2$). 
+5$\times$5, and 1$\times$1 cm$^2$. 
 The signal (background) process is $Z'\rightarrow WW$ 
 ($Z'\rightarrow q\bar{q}$).
 }
@@ -240,7 +248,7 @@ The signal (background) process is $Z'\rightarrow WW$
 \end{center}
 \caption{
 Distributions of soft drop mass for $\beta$=2, with 20 TeV c.m. energies and three different detector cell sizes: 20$\times$20, 
-5$\times$5, and 1$\times$1 (cm$^2$). The signal (background) process is 
+5$\times$5, and 1$\times$1 cm$^2$. The signal (background) process is  
 $Z'\rightarrow t\bar{t}$ ($Z'\rightarrow q\bar{q}$).
 }
 \label{fig:cluster_mass_sdb2_tt}
@@ -264,9 +272,9 @@ $Z'\rightarrow t\bar{t}$ ($Z'\rightarrow q\bar{q}$).
 \end{center}
 \caption{
 The ROC curves of soft drop mass selection for $\beta$=2
-with 5, 10, 20, 40 TeV c.m. energies. 
+with 5, 10, 20 and 40 TeV c.m. energies. 
 Three different detector cell sizes are compared: 20$\times$20, 
-5$\times$5, and 1$\times$1 (cm$^2$). 
+5$\times$5 and 1$\times$1 cm$^2$. 
 The signal (background) process is $Z'\rightarrow t\bar{t}$
 ($Z' \rightarrow q\bar{q}$).
 }
