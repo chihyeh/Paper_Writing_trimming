@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.27)  19 NOV 2018 21:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.27)  30 NOV 2018 22:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -552,19 +552,12 @@ Overfull \hbox (1.77145pt too wide) in paragraph at lines 22--31
 is-tri-bu-tions re-con-structed us-ing truth-
  []
 
-
-Overfull \hbox (6.79109pt too wide) in paragraph at lines 32--38
-[]\OT1/cmr/m/n/10.95 Thus this study con-firms the base-line SiFCC de-tec-tor g
-e-om-e-try [[]] that uses 5 $\OMS/cmsy/m/n/10.95 ^^B$ \OT1/cmr/m/n/10.95 5 cm$[
-]$
- []
-
 Package epstopdf Info: Source file: <figs/h5tev_clus_effR_ww1.eps>
-(epstopdf)                    date: 2018-07-28 14:46:34
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12499 bytes
 (epstopdf)             Output file: <figs/h5tev_clus_effR_ww1-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2018-09-23 22:27:06
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9661 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/h5tev_clus_effR_ww1-e
 ps-converted-to.pdf figs/h5tev_clus_effR_ww1.eps>
@@ -578,11 +571,11 @@ Package pdftex.def Info: figs/h5tev_clus_effR_ww1-eps-converted-to.pdf used on
 input line 46.
 (pdftex.def)             Requested size: 189.78264pt x 182.0851pt.
 Package epstopdf Info: Source file: <figs/h10tev_clus_effR_ww1.eps>
-(epstopdf)                    date: 2018-07-28 14:46:32
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11468 bytes
 (epstopdf)             Output file: <figs/h10tev_clus_effR_ww1-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2018-09-23 22:27:06
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 8821 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/h10tev_clus_effR_ww1-
 eps-converted-to.pdf figs/h10tev_clus_effR_ww1.eps>
@@ -597,11 +590,11 @@ Package pdftex.def Info: figs/h10tev_clus_effR_ww1-eps-converted-to.pdf used on
  input line 49.
 (pdftex.def)             Requested size: 189.78264pt x 182.0851pt.
 Package epstopdf Info: Source file: <figs/h20tev_clus_effR_ww1.eps>
-(epstopdf)                    date: 2018-07-28 14:46:32
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 10785 bytes
 (epstopdf)             Output file: <figs/h20tev_clus_effR_ww1-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2018-09-23 22:27:07
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 8822 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/h20tev_clus_effR_ww1-
 eps-converted-to.pdf figs/h20tev_clus_effR_ww1.eps>
@@ -616,11 +609,11 @@ Package pdftex.def Info: figs/h20tev_clus_effR_ww1-eps-converted-to.pdf used on
  input line 52.
 (pdftex.def)             Requested size: 189.78264pt x 182.0851pt.
 Package epstopdf Info: Source file: <figs/h40tev_clus_effR_ww1.eps>
-(epstopdf)                    date: 2018-07-28 14:46:32
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11697 bytes
 (epstopdf)             Output file: <figs/h40tev_clus_effR_ww1-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2018-09-23 22:27:08
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9154 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/h40tev_clus_effR_ww1-
 eps-converted-to.pdf figs/h40tev_clus_effR_ww1.eps>
@@ -635,11 +628,11 @@ Package pdftex.def Info: figs/h40tev_clus_effR_ww1-eps-converted-to.pdf used on
  input line 55.
 (pdftex.def)             Requested size: 189.78264pt x 182.0851pt.
 Package epstopdf Info: Source file: <figs/h5tev_clus_d12_ww1.eps>
-(epstopdf)                    date: 2018-07-28 14:46:32
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11544 bytes
 (epstopdf)             Output file: <figs/h5tev_clus_d12_ww1-eps-converted-to.p
 df>
-(epstopdf)                    date: 2018-09-23 22:27:08
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 8908 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/h5tev_clus_d12_ww1-ep
 s-converted-to.pdf figs/h5tev_clus_d12_ww1.eps>
@@ -654,11 +647,11 @@ Package pdftex.def Info: figs/h5tev_clus_d12_ww1-eps-converted-to.pdf used on i
 nput line 66.
 (pdftex.def)             Requested size: 189.78264pt x 182.0851pt.
 Package epstopdf Info: Source file: <figs/h10tev_clus_d12_ww1.eps>
-(epstopdf)                    date: 2018-07-28 14:46:32
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11682 bytes
 (epstopdf)             Output file: <figs/h10tev_clus_d12_ww1-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2018-09-23 22:27:09
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 8947 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/h10tev_clus_d12_ww1-e
 ps-converted-to.pdf figs/h10tev_clus_d12_ww1.eps>
@@ -672,11 +665,11 @@ Package pdftex.def Info: figs/h10tev_clus_d12_ww1-eps-converted-to.pdf used on
 input line 69.
 (pdftex.def)             Requested size: 189.78264pt x 182.0851pt.
 Package epstopdf Info: Source file: <figs/h20tev_clus_d12_ww1.eps>
-(epstopdf)                    date: 2018-07-28 14:46:34
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11929 bytes
 (epstopdf)             Output file: <figs/h20tev_clus_d12_ww1-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2018-09-23 22:27:10
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 8815 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/h20tev_clus_d12_ww1-e
 ps-converted-to.pdf figs/h20tev_clus_d12_ww1.eps>
@@ -690,11 +683,11 @@ Package pdftex.def Info: figs/h20tev_clus_d12_ww1-eps-converted-to.pdf used on
 input line 72.
 (pdftex.def)             Requested size: 189.78264pt x 182.0851pt.
 Package epstopdf Info: Source file: <figs/h40tev_clus_d12_ww1.eps>
-(epstopdf)                    date: 2018-07-28 14:46:32
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12173 bytes
 (epstopdf)             Output file: <figs/h40tev_clus_d12_ww1-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2018-09-23 22:27:10
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 8990 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/h40tev_clus_d12_ww1-e
 ps-converted-to.pdf figs/h40tev_clus_d12_ww1.eps>
@@ -729,16 +722,16 @@ l.18 \end{equation}
 ed-to.pdf> <./figs/h40tev_clus_d12_ww1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <h_soft_drop/Dis_cluster_010_mass_mmdt_20te
 v_04_no_UOF.eps>
-(epstopdf)                    date: 2018-11-03 09:47:31
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12938 bytes
 (epstopdf)             Output file: <h_soft_drop/Dis_cluster_010_mass_mmdt_20te
 v_04_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:49:58
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 10219 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_soft_drop/Dis_cluster_01
 0_mass_mmdt_20tev_04_no_UOF-eps-converted-to.pdf h_soft_drop/Dis_cluster_010_ma
 ss_mmdt_20tev_04_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 93.
+(epstopdf)             \includegraphics on input line 92.
 Package epstopdf Info: Output file is already uptodate.
 
 <h_soft_drop/Dis_cluster_010_mass_mmdt_20tev_04_no_UOF-eps-converted-to.pdf, id
@@ -749,20 +742,20 @@ f Graphic file (type pdf)
 <use h_soft_drop/Dis_cluster_010_mass_mmdt_20tev_04_no_UOF-eps-converted-to.pdf
 >
 Package pdftex.def Info: h_soft_drop/Dis_cluster_010_mass_mmdt_20tev_04_no_UOF-
-eps-converted-to.pdf used on input line 93.
+eps-converted-to.pdf used on input line 92.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <h_soft_drop/Dis_cluster_009_mass_mmdt_20te
 v_04_no_UOF.eps>
-(epstopdf)                    date: 2018-11-03 09:47:30
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12433 bytes
 (epstopdf)             Output file: <h_soft_drop/Dis_cluster_009_mass_mmdt_20te
 v_04_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:49:58
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 10117 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_soft_drop/Dis_cluster_00
 9_mass_mmdt_20tev_04_no_UOF-eps-converted-to.pdf h_soft_drop/Dis_cluster_009_ma
 ss_mmdt_20tev_04_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 96.
+(epstopdf)             \includegraphics on input line 95.
 Package epstopdf Info: Output file is already uptodate.
 
 <h_soft_drop/Dis_cluster_009_mass_mmdt_20tev_04_no_UOF-eps-converted-to.pdf, id
@@ -773,20 +766,20 @@ f Graphic file (type pdf)
 <use h_soft_drop/Dis_cluster_009_mass_mmdt_20tev_04_no_UOF-eps-converted-to.pdf
 >
 Package pdftex.def Info: h_soft_drop/Dis_cluster_009_mass_mmdt_20tev_04_no_UOF-
-eps-converted-to.pdf used on input line 96.
+eps-converted-to.pdf used on input line 95.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <h_soft_drop/Dis_cluster_012_mass_mmdt_20te
 v_04_no_UOF.eps>
-(epstopdf)                    date: 2018-11-03 09:47:31
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12697 bytes
 (epstopdf)             Output file: <h_soft_drop/Dis_cluster_012_mass_mmdt_20te
 v_04_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:49:59
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9993 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_soft_drop/Dis_cluster_01
 2_mass_mmdt_20tev_04_no_UOF-eps-converted-to.pdf h_soft_drop/Dis_cluster_012_ma
 ss_mmdt_20tev_04_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 99.
+(epstopdf)             \includegraphics on input line 98.
 Package epstopdf Info: Output file is already uptodate.
 
 <h_soft_drop/Dis_cluster_012_mass_mmdt_20tev_04_no_UOF-eps-converted-to.pdf, id
@@ -797,21 +790,21 @@ f Graphic file (type pdf)
 <use h_soft_drop/Dis_cluster_012_mass_mmdt_20tev_04_no_UOF-eps-converted-to.pdf
 >
 Package pdftex.def Info: h_soft_drop/Dis_cluster_012_mass_mmdt_20tev_04_no_UOF-
-eps-converted-to.pdf used on input line 99.
+eps-converted-to.pdf used on input line 98.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_mmdt_5tev_eff
 _1_central_fix_at_Median_bin_ww_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:35
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12517 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_mmdt_5tev_eff
 _1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:21:56
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11956 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_mmdt_5tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.
 pdf ROC_soft_drop/A_Cluster_mass_mmdt_5tev_eff_1_central_fix_at_Median_bin_ww_q
 q_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 112.
+(epstopdf)             \includegraphics on input line 111.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_mmdt_5tev_eff_1_central_fix_at_Median_bin_ww_qq_l
@@ -822,21 +815,21 @@ _qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_mmdt_5tev_eff_1_central_fix_at_Median_bin_ww_
 qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_mmdt_5tev_eff_1_central_f
-ix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 112.
+ix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 111.
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_mmdt_10tev_ef
 f_1_central_fix_at_Median_bin_ww_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:35
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11713 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_mmdt_10tev_ef
 f_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:21:57
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11501 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_mmdt_10tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to
 .pdf ROC_soft_drop/A_Cluster_mass_mmdt_10tev_eff_1_central_fix_at_Median_bin_ww
 _qq_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 115.
+(epstopdf)             \includegraphics on input line 114.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_mmdt_10tev_eff_1_central_fix_at_Median_bin_ww_qq_
@@ -847,22 +840,22 @@ w_qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_mmdt_10tev_eff_1_central_fix_at_Median_bin_ww
 _qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_mmdt_10tev_eff_1_central_
-fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 115.
+fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 114.
 
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_mmdt_20tev_ef
 f_1_central_fix_at_Median_bin_ww_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:35
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12183 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_mmdt_20tev_ef
 f_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:21:57
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11731 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to
 .pdf ROC_soft_drop/A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww
 _qq_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 118.
+(epstopdf)             \includegraphics on input line 117.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww_qq_
@@ -873,22 +866,22 @@ w_qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_ww
 _qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_mmdt_20tev_eff_1_central_
-fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 118.
+fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 117.
 
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_mmdt_40tev_ef
 f_1_central_fix_at_Median_bin_ww_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:36
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12548 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_mmdt_40tev_ef
 f_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:21:58
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11948 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_mmdt_40tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to
 .pdf ROC_soft_drop/A_Cluster_mass_mmdt_40tev_eff_1_central_fix_at_Median_bin_ww
 _qq_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 121.
+(epstopdf)             \includegraphics on input line 120.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_mmdt_40tev_eff_1_central_fix_at_Median_bin_ww_qq_
@@ -899,21 +892,21 @@ w_qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_mmdt_40tev_eff_1_central_fix_at_Median_bin_ww
 _qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_mmdt_40tev_eff_1_central_
-fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 121.
+fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 120.
 
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <h_soft_drop/Dis_cluster_010_mass_mmdt_tt_2
 0tev_04_tt_no_UOF.eps>
-(epstopdf)                    date: 2018-11-03 09:47:30
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12768 bytes
 (epstopdf)             Output file: <h_soft_drop/Dis_cluster_010_mass_mmdt_tt_2
 0tev_04_tt_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:50:00
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 10088 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_soft_drop/Dis_cluster_01
 0_mass_mmdt_tt_20tev_04_tt_no_UOF-eps-converted-to.pdf h_soft_drop/Dis_cluster_
 010_mass_mmdt_tt_20tev_04_tt_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 137.
+(epstopdf)             \includegraphics on input line 136.
 Package epstopdf Info: Output file is already uptodate.
 
 <h_soft_drop/Dis_cluster_010_mass_mmdt_tt_20tev_04_tt_no_UOF-eps-converted-to.p
@@ -924,20 +917,20 @@ File: h_soft_drop/Dis_cluster_010_mass_mmdt_tt_20tev_04_tt_no_UOF-eps-converted
 <use h_soft_drop/Dis_cluster_010_mass_mmdt_tt_20tev_04_tt_no_UOF-eps-converted-
 to.pdf>
 Package pdftex.def Info: h_soft_drop/Dis_cluster_010_mass_mmdt_tt_20tev_04_tt_n
-o_UOF-eps-converted-to.pdf used on input line 137.
+o_UOF-eps-converted-to.pdf used on input line 136.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <h_soft_drop/Dis_cluster_009_mass_mmdt_tt_2
 0tev_04_tt_no_UOF.eps>
-(epstopdf)                    date: 2018-11-03 09:47:30
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12243 bytes
 (epstopdf)             Output file: <h_soft_drop/Dis_cluster_009_mass_mmdt_tt_2
 0tev_04_tt_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:50:01
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9735 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_soft_drop/Dis_cluster_00
 9_mass_mmdt_tt_20tev_04_tt_no_UOF-eps-converted-to.pdf h_soft_drop/Dis_cluster_
 009_mass_mmdt_tt_20tev_04_tt_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 140.
+(epstopdf)             \includegraphics on input line 139.
 Package epstopdf Info: Output file is already uptodate.
 
 <h_soft_drop/Dis_cluster_009_mass_mmdt_tt_20tev_04_tt_no_UOF-eps-converted-to.p
@@ -948,20 +941,20 @@ File: h_soft_drop/Dis_cluster_009_mass_mmdt_tt_20tev_04_tt_no_UOF-eps-converted
 <use h_soft_drop/Dis_cluster_009_mass_mmdt_tt_20tev_04_tt_no_UOF-eps-converted-
 to.pdf>
 Package pdftex.def Info: h_soft_drop/Dis_cluster_009_mass_mmdt_tt_20tev_04_tt_n
-o_UOF-eps-converted-to.pdf used on input line 140.
+o_UOF-eps-converted-to.pdf used on input line 139.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <h_soft_drop/Dis_cluster_012_mass_mmdt_tt_2
 0tev_04_tt_no_UOF.eps>
-(epstopdf)                    date: 2018-11-03 09:47:30
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12266 bytes
 (epstopdf)             Output file: <h_soft_drop/Dis_cluster_012_mass_mmdt_tt_2
 0tev_04_tt_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:50:02
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9700 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_soft_drop/Dis_cluster_01
 2_mass_mmdt_tt_20tev_04_tt_no_UOF-eps-converted-to.pdf h_soft_drop/Dis_cluster_
 012_mass_mmdt_tt_20tev_04_tt_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 143.
+(epstopdf)             \includegraphics on input line 142.
 Package epstopdf Info: Output file is already uptodate.
 
 <h_soft_drop/Dis_cluster_012_mass_mmdt_tt_20tev_04_tt_no_UOF-eps-converted-to.p
@@ -972,21 +965,21 @@ File: h_soft_drop/Dis_cluster_012_mass_mmdt_tt_20tev_04_tt_no_UOF-eps-converted
 <use h_soft_drop/Dis_cluster_012_mass_mmdt_tt_20tev_04_tt_no_UOF-eps-converted-
 to.pdf>
 Package pdftex.def Info: h_soft_drop/Dis_cluster_012_mass_mmdt_tt_20tev_04_tt_n
-o_UOF-eps-converted-to.pdf used on input line 143.
+o_UOF-eps-converted-to.pdf used on input line 142.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_mmdt_5tev_eff
 _1_central_fix_at_Median_bin_tt_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:34
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12146 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_mmdt_5tev_eff
 _1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:00
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11391 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_mmdt_5tev_eff_1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.
 pdf ROC_soft_drop/A_Cluster_mass_mmdt_5tev_eff_1_central_fix_at_Median_bin_tt_q
 q_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 158.
+(epstopdf)             \includegraphics on input line 157.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_mmdt_5tev_eff_1_central_fix_at_Median_bin_tt_qq_l
@@ -997,21 +990,21 @@ _qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_mmdt_5tev_eff_1_central_fix_at_Median_bin_tt_
 qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_mmdt_5tev_eff_1_central_f
-ix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 158.
+ix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 157.
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_mmdt_10tev_ef
 f_1_central_fix_at_Median_bin_tt_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:34
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12903 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_mmdt_10tev_ef
 f_1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:01
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11834 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_mmdt_10tev_eff_1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to
 .pdf ROC_soft_drop/A_Cluster_mass_mmdt_10tev_eff_1_central_fix_at_Median_bin_tt
 _qq_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 161.
+(epstopdf)             \includegraphics on input line 160.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_mmdt_10tev_eff_1_central_fix_at_Median_bin_tt_qq_
@@ -1022,22 +1015,22 @@ t_qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_mmdt_10tev_eff_1_central_fix_at_Median_bin_tt
 _qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_mmdt_10tev_eff_1_central_
-fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 161.
+fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 160.
 
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_mmdt_20tev_ef
 f_1_central_fix_at_Median_bin_tt_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:34
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 13674 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_mmdt_20tev_ef
 f_1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:02
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12227 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_mmdt_20tev_eff_1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to
 .pdf ROC_soft_drop/A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_tt
 _qq_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 164.
+(epstopdf)             \includegraphics on input line 163.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_tt_qq_
@@ -1048,22 +1041,22 @@ t_qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_mmdt_20tev_eff_1_central_fix_at_Median_bin_tt
 _qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_mmdt_20tev_eff_1_central_
-fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 164.
+fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 163.
 
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_mmdt_40tev_ef
 f_1_central_fix_at_Median_bin_tt_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:35
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 13571 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_mmdt_40tev_ef
 f_1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:03
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12183 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_mmdt_40tev_eff_1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to
 .pdf ROC_soft_drop/A_Cluster_mass_mmdt_40tev_eff_1_central_fix_at_Median_bin_tt
 _qq_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 167.
+(epstopdf)             \includegraphics on input line 166.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_mmdt_40tev_eff_1_central_fix_at_Median_bin_tt_qq_
@@ -1074,21 +1067,21 @@ t_qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_mmdt_40tev_eff_1_central_fix_at_Median_bin_tt
 _qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_mmdt_40tev_eff_1_central_
-fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 167.
+fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 166.
 
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <h_soft_drop/Dis_cluster_010_mass_sdb2_ww_2
 0tev_04_1600_no_UOF.eps>
-(epstopdf)                    date: 2018-11-03 09:47:31
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12326 bytes
 (epstopdf)             Output file: <h_soft_drop/Dis_cluster_010_mass_sdb2_ww_2
 0tev_04_1600_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:50:02
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9797 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_soft_drop/Dis_cluster_01
 0_mass_sdb2_ww_20tev_04_1600_no_UOF-eps-converted-to.pdf h_soft_drop/Dis_cluste
 r_010_mass_sdb2_ww_20tev_04_1600_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 186.
+(epstopdf)             \includegraphics on input line 185.
 Package epstopdf Info: Output file is already uptodate.
 
 <h_soft_drop/Dis_cluster_010_mass_sdb2_ww_20tev_04_1600_no_UOF-eps-converted-to
@@ -1099,20 +1092,20 @@ ed-to.pdf Graphic file (type pdf)
 <use h_soft_drop/Dis_cluster_010_mass_sdb2_ww_20tev_04_1600_no_UOF-eps-converte
 d-to.pdf>
 Package pdftex.def Info: h_soft_drop/Dis_cluster_010_mass_sdb2_ww_20tev_04_1600
-_no_UOF-eps-converted-to.pdf used on input line 186.
+_no_UOF-eps-converted-to.pdf used on input line 185.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <h_soft_drop/Dis_cluster_009_mass_sdb2_ww_2
 0tev_04_1600_no_UOF.eps>
-(epstopdf)                    date: 2018-11-03 09:47:31
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12362 bytes
 (epstopdf)             Output file: <h_soft_drop/Dis_cluster_009_mass_sdb2_ww_2
 0tev_04_1600_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:50:03
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9954 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_soft_drop/Dis_cluster_00
 9_mass_sdb2_ww_20tev_04_1600_no_UOF-eps-converted-to.pdf h_soft_drop/Dis_cluste
 r_009_mass_sdb2_ww_20tev_04_1600_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 189.
+(epstopdf)             \includegraphics on input line 188.
 Package epstopdf Info: Output file is already uptodate.
 
 <h_soft_drop/Dis_cluster_009_mass_sdb2_ww_20tev_04_1600_no_UOF-eps-converted-to
@@ -1123,20 +1116,20 @@ ed-to.pdf Graphic file (type pdf)
 <use h_soft_drop/Dis_cluster_009_mass_sdb2_ww_20tev_04_1600_no_UOF-eps-converte
 d-to.pdf>
 Package pdftex.def Info: h_soft_drop/Dis_cluster_009_mass_sdb2_ww_20tev_04_1600
-_no_UOF-eps-converted-to.pdf used on input line 189.
+_no_UOF-eps-converted-to.pdf used on input line 188.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <h_soft_drop/Dis_cluster_012_mass_sdb2_ww_2
 0tev_04_1600_no_UOF.eps>
-(epstopdf)                    date: 2018-11-03 09:47:31
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12293 bytes
 (epstopdf)             Output file: <h_soft_drop/Dis_cluster_012_mass_sdb2_ww_2
 0tev_04_1600_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:50:04
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9930 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_soft_drop/Dis_cluster_01
 2_mass_sdb2_ww_20tev_04_1600_no_UOF-eps-converted-to.pdf h_soft_drop/Dis_cluste
 r_012_mass_sdb2_ww_20tev_04_1600_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 192.
+(epstopdf)             \includegraphics on input line 191.
 Package epstopdf Info: Output file is already uptodate.
 
 <h_soft_drop/Dis_cluster_012_mass_sdb2_ww_20tev_04_1600_no_UOF-eps-converted-to
@@ -1147,21 +1140,21 @@ ed-to.pdf Graphic file (type pdf)
 <use h_soft_drop/Dis_cluster_012_mass_sdb2_ww_20tev_04_1600_no_UOF-eps-converte
 d-to.pdf>
 Package pdftex.def Info: h_soft_drop/Dis_cluster_012_mass_sdb2_ww_20tev_04_1600
-_no_UOF-eps-converted-to.pdf used on input line 192.
+_no_UOF-eps-converted-to.pdf used on input line 191.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_sdb2_5tev_eff
 _1_central_fix_at_Median_bin_ww_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:37
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12436 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_sdb2_5tev_eff
 _1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:05
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11929 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_sdb2_5tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.
 pdf ROC_soft_drop/A_Cluster_mass_sdb2_5tev_eff_1_central_fix_at_Median_bin_ww_q
 q_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 207.
+(epstopdf)             \includegraphics on input line 206.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_sdb2_5tev_eff_1_central_fix_at_Median_bin_ww_qq_l
@@ -1172,21 +1165,21 @@ _qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_sdb2_5tev_eff_1_central_fix_at_Median_bin_ww_
 qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_sdb2_5tev_eff_1_central_f
-ix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 207.
+ix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 206.
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_sdb2_10tev_ef
 f_1_central_fix_at_Median_bin_ww_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:38
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12866 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_sdb2_10tev_ef
 f_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:06
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12081 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_sdb2_10tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to
 .pdf ROC_soft_drop/A_Cluster_mass_sdb2_10tev_eff_1_central_fix_at_Median_bin_ww
 _qq_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 210.
+(epstopdf)             \includegraphics on input line 209.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_sdb2_10tev_eff_1_central_fix_at_Median_bin_ww_qq_
@@ -1197,22 +1190,22 @@ w_qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_sdb2_10tev_eff_1_central_fix_at_Median_bin_ww
 _qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_sdb2_10tev_eff_1_central_
-fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 210.
+fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 209.
 
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_sdb2_20tev_ef
 f_1_central_fix_at_Median_bin_ww_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:38
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12301 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_sdb2_20tev_ef
 f_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:06
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11808 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_sdb2_20tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to
 .pdf ROC_soft_drop/A_Cluster_mass_sdb2_20tev_eff_1_central_fix_at_Median_bin_ww
 _qq_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 213.
+(epstopdf)             \includegraphics on input line 212.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_sdb2_20tev_eff_1_central_fix_at_Median_bin_ww_qq_
@@ -1223,22 +1216,22 @@ w_qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_sdb2_20tev_eff_1_central_fix_at_Median_bin_ww
 _qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_sdb2_20tev_eff_1_central_
-fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 213.
+fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 212.
 
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_sdb2_40tev_ef
 f_1_central_fix_at_Median_bin_ww_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:38
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 13018 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_sdb2_40tev_ef
 f_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:07
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12253 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_sdb2_40tev_eff_1_central_fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to
 .pdf ROC_soft_drop/A_Cluster_mass_sdb2_40tev_eff_1_central_fix_at_Median_bin_ww
 _qq_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 216.
+(epstopdf)             \includegraphics on input line 215.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_sdb2_40tev_eff_1_central_fix_at_Median_bin_ww_qq_
@@ -1249,21 +1242,21 @@ w_qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_sdb2_40tev_eff_1_central_fix_at_Median_bin_ww
 _qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_sdb2_40tev_eff_1_central_
-fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 216.
+fix_at_Median_bin_ww_qq_log_no_UOF-eps-converted-to.pdf used on input line 215.
 
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <h_soft_drop/Dis_cluster_010_mass_sdb2_tt_2
 0tev_04_tt_2400_no_UOF.eps>
-(epstopdf)                    date: 2018-11-03 09:47:32
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 14075 bytes
 (epstopdf)             Output file: <h_soft_drop/Dis_cluster_010_mass_sdb2_tt_2
 0tev_04_tt_2400_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:50:05
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 10188 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_soft_drop/Dis_cluster_01
 0_mass_sdb2_tt_20tev_04_tt_2400_no_UOF-eps-converted-to.pdf h_soft_drop/Dis_clu
 ster_010_mass_sdb2_tt_20tev_04_tt_2400_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 234.
+(epstopdf)             \includegraphics on input line 233.
 Package epstopdf Info: Output file is already uptodate.
 
 <h_soft_drop/Dis_cluster_010_mass_sdb2_tt_20tev_04_tt_2400_no_UOF-eps-converted
@@ -1274,20 +1267,20 @@ erted-to.pdf Graphic file (type pdf)
 <use h_soft_drop/Dis_cluster_010_mass_sdb2_tt_20tev_04_tt_2400_no_UOF-eps-conve
 rted-to.pdf>
 Package pdftex.def Info: h_soft_drop/Dis_cluster_010_mass_sdb2_tt_20tev_04_tt_2
-400_no_UOF-eps-converted-to.pdf used on input line 234.
+400_no_UOF-eps-converted-to.pdf used on input line 233.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <h_soft_drop/Dis_cluster_009_mass_sdb2_tt_2
 0tev_04_tt_2400_no_UOF.eps>
-(epstopdf)                    date: 2018-11-03 09:47:32
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 14046 bytes
 (epstopdf)             Output file: <h_soft_drop/Dis_cluster_009_mass_sdb2_tt_2
 0tev_04_tt_2400_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:50:05
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 10344 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_soft_drop/Dis_cluster_00
 9_mass_sdb2_tt_20tev_04_tt_2400_no_UOF-eps-converted-to.pdf h_soft_drop/Dis_clu
 ster_009_mass_sdb2_tt_20tev_04_tt_2400_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 237.
+(epstopdf)             \includegraphics on input line 236.
 Package epstopdf Info: Output file is already uptodate.
 
 <h_soft_drop/Dis_cluster_009_mass_sdb2_tt_20tev_04_tt_2400_no_UOF-eps-converted
@@ -1298,20 +1291,20 @@ erted-to.pdf Graphic file (type pdf)
 <use h_soft_drop/Dis_cluster_009_mass_sdb2_tt_20tev_04_tt_2400_no_UOF-eps-conve
 rted-to.pdf>
 Package pdftex.def Info: h_soft_drop/Dis_cluster_009_mass_sdb2_tt_20tev_04_tt_2
-400_no_UOF-eps-converted-to.pdf used on input line 237.
+400_no_UOF-eps-converted-to.pdf used on input line 236.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <h_soft_drop/Dis_cluster_012_mass_sdb2_tt_2
 0tev_04_tt_2400_no_UOF.eps>
-(epstopdf)                    date: 2018-11-03 09:47:32
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 13967 bytes
 (epstopdf)             Output file: <h_soft_drop/Dis_cluster_012_mass_sdb2_tt_2
 0tev_04_tt_2400_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:50:06
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 10239 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_soft_drop/Dis_cluster_01
 2_mass_sdb2_tt_20tev_04_tt_2400_no_UOF-eps-converted-to.pdf h_soft_drop/Dis_clu
 ster_012_mass_sdb2_tt_20tev_04_tt_2400_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 240.
+(epstopdf)             \includegraphics on input line 239.
 Package epstopdf Info: Output file is already uptodate.
 
 <h_soft_drop/Dis_cluster_012_mass_sdb2_tt_20tev_04_tt_2400_no_UOF-eps-converted
@@ -1322,21 +1315,21 @@ erted-to.pdf Graphic file (type pdf)
 <use h_soft_drop/Dis_cluster_012_mass_sdb2_tt_20tev_04_tt_2400_no_UOF-eps-conve
 rted-to.pdf>
 Package pdftex.def Info: h_soft_drop/Dis_cluster_012_mass_sdb2_tt_20tev_04_tt_2
-400_no_UOF-eps-converted-to.pdf used on input line 240.
+400_no_UOF-eps-converted-to.pdf used on input line 239.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_sdb2_5tev_eff
 _1_central_fix_at_Median_bin_tt_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:36
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 13171 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_sdb2_5tev_eff
 _1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:09
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11952 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_sdb2_5tev_eff_1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.
 pdf ROC_soft_drop/A_Cluster_mass_sdb2_5tev_eff_1_central_fix_at_Median_bin_tt_q
 q_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 255.
+(epstopdf)             \includegraphics on input line 254.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_sdb2_5tev_eff_1_central_fix_at_Median_bin_tt_qq_l
@@ -1347,21 +1340,21 @@ _qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_sdb2_5tev_eff_1_central_fix_at_Median_bin_tt_
 qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_sdb2_5tev_eff_1_central_f
-ix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 255.
+ix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 254.
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_sdb2_10tev_ef
 f_1_central_fix_at_Median_bin_tt_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:37
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12765 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_sdb2_10tev_ef
 f_1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:10
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11752 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_sdb2_10tev_eff_1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to
 .pdf ROC_soft_drop/A_Cluster_mass_sdb2_10tev_eff_1_central_fix_at_Median_bin_tt
 _qq_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 258.
+(epstopdf)             \includegraphics on input line 257.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_sdb2_10tev_eff_1_central_fix_at_Median_bin_tt_qq_
@@ -1372,22 +1365,22 @@ t_qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_sdb2_10tev_eff_1_central_fix_at_Median_bin_tt
 _qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_sdb2_10tev_eff_1_central_
-fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 258.
+fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 257.
 
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_sdb2_20tev_ef
 f_1_central_fix_at_Median_bin_tt_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:37
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 13845 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_sdb2_20tev_ef
 f_1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:11
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12365 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_sdb2_20tev_eff_1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to
 .pdf ROC_soft_drop/A_Cluster_mass_sdb2_20tev_eff_1_central_fix_at_Median_bin_tt
 _qq_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 261.
+(epstopdf)             \includegraphics on input line 260.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_sdb2_20tev_eff_1_central_fix_at_Median_bin_tt_qq_
@@ -1398,22 +1391,22 @@ t_qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_sdb2_20tev_eff_1_central_fix_at_Median_bin_tt
 _qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_sdb2_20tev_eff_1_central_
-fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 261.
+fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 260.
 
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 Package epstopdf Info: Source file: <ROC_soft_drop/A_Cluster_mass_sdb2_40tev_ef
 f_1_central_fix_at_Median_bin_tt_qq_log_no_UOF.eps>
-(epstopdf)                    date: 2018-09-23 09:04:37
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 14924 bytes
 (epstopdf)             Output file: <ROC_soft_drop/A_Cluster_mass_sdb2_40tev_ef
 f_1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:11
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 13010 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_soft_drop/A_Cluster_ma
 ss_sdb2_40tev_eff_1_central_fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to
 .pdf ROC_soft_drop/A_Cluster_mass_sdb2_40tev_eff_1_central_fix_at_Median_bin_tt
 _qq_log_no_UOF.eps>
-(epstopdf)             \includegraphics on input line 264.
+(epstopdf)             \includegraphics on input line 263.
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_soft_drop/A_Cluster_mass_sdb2_40tev_eff_1_central_fix_at_Median_bin_tt_qq_
@@ -1424,7 +1417,7 @@ t_qq_log_no_UOF-eps-converted-to.pdf Graphic file (type pdf)
 <use ROC_soft_drop/A_Cluster_mass_sdb2_40tev_eff_1_central_fix_at_Median_bin_tt
 _qq_log_no_UOF-eps-converted-to.pdf>
 Package pdftex.def Info: ROC_soft_drop/A_Cluster_mass_sdb2_40tev_eff_1_central_
-fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 264.
+fix_at_Median_bin_tt_qq_log_no_UOF-eps-converted-to.pdf used on input line 263.
 
 (pdftex.def)             Requested size: 185.65297pt x 129.00539pt.
 )
@@ -1531,11 +1524,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [11] [12]
 Package epstopdf Info: Source file: <h_Tau_C/Dis_Rawhit_05GeV_010_tau21_20tev_0
 4_after_cut_Man_25_no_UOF_new_75pa_for_paper.eps>
-(epstopdf)                    date: 2018-11-03 09:52:40
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12651 bytes
 (epstopdf)             Output file: <h_Tau_C/Dis_Rawhit_05GeV_010_tau21_20tev_0
 4_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:57:06
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9782 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_Tau_C/Dis_Rawhit_05GeV_0
 10_tau21_20tev_04_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.p
@@ -1545,7 +1538,7 @@ _for_paper.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <h_Tau_C/Dis_Rawhit_05GeV_010_tau21_20tev_04_after_cut_Man_25_no_UOF_new_75pa_f
-or_paper-eps-converted-to.pdf, id=789, 569.12625pt x 543.02875pt>
+or_paper-eps-converted-to.pdf, id=790, 569.12625pt x 543.02875pt>
 File: h_Tau_C/Dis_Rawhit_05GeV_010_tau21_20tev_04_after_cut_Man_25_no_UOF_new_7
 5pa_for_paper-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1556,11 +1549,11 @@ Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf used on input line 139.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <h_Tau_C/Dis_Rawhit_05GeV_009_tau21_20tev_0
 4_after_cut_Man_25_no_UOF_new_75pa_for_paper.eps>
-(epstopdf)                    date: 2018-11-03 09:52:40
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12337 bytes
 (epstopdf)             Output file: <h_Tau_C/Dis_Rawhit_05GeV_009_tau21_20tev_0
 4_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:57:07
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9746 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_Tau_C/Dis_Rawhit_05GeV_0
 09_tau21_20tev_04_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.p
@@ -1570,7 +1563,7 @@ _for_paper.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <h_Tau_C/Dis_Rawhit_05GeV_009_tau21_20tev_04_after_cut_Man_25_no_UOF_new_75pa_f
-or_paper-eps-converted-to.pdf, id=790, 569.12625pt x 543.02875pt>
+or_paper-eps-converted-to.pdf, id=791, 569.12625pt x 543.02875pt>
 File: h_Tau_C/Dis_Rawhit_05GeV_009_tau21_20tev_04_after_cut_Man_25_no_UOF_new_7
 5pa_for_paper-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1581,11 +1574,11 @@ Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf used on input line 142.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <h_Tau_C/Dis_Rawhit_05GeV_012_tau21_20tev_0
 4_after_cut_Man_25_no_UOF_new_75pa_for_paper.eps>
-(epstopdf)                    date: 2018-11-03 09:52:41
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12107 bytes
 (epstopdf)             Output file: <h_Tau_C/Dis_Rawhit_05GeV_012_tau21_20tev_0
 4_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:57:07
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9731 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_Tau_C/Dis_Rawhit_05GeV_0
 12_tau21_20tev_04_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.p
@@ -1595,7 +1588,7 @@ _for_paper.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <h_Tau_C/Dis_Rawhit_05GeV_012_tau21_20tev_04_after_cut_Man_25_no_UOF_new_75pa_f
-or_paper-eps-converted-to.pdf, id=791, 569.12625pt x 543.02875pt>
+or_paper-eps-converted-to.pdf, id=792, 569.12625pt x 543.02875pt>
 File: h_Tau_C/Dis_Rawhit_05GeV_012_tau21_20tev_04_after_cut_Man_25_no_UOF_new_7
 5pa_for_paper-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1606,11 +1599,11 @@ Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf used on input line 145.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <ROC_Tau_C/Rawhit_05GeV_tau21_5tev_eff_1_Ne
 w2_after_cut_25bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-09-23 09:02:40
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 13091 bytes
 (epstopdf)             Output file: <ROC_Tau_C/Rawhit_05GeV_tau21_5tev_eff_1_Ne
 w2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:18
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11229 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_Tau_C/Rawhit_05GeV_tau
 21_5tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf ROC_Ta
@@ -1619,7 +1612,7 @@ u_C/Rawhit_05GeV_tau21_5tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_Tau_C/Rawhit_05GeV_tau21_5tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-
-eps-converted-to.pdf, id=792, 569.12625pt x 395.4775pt>
+eps-converted-to.pdf, id=793, 569.12625pt x 395.4775pt>
 File: ROC_Tau_C/Rawhit_05GeV_tau21_5tev_eff_1_New2_after_cut_25bins_no_UOF_new_
 75pa-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1630,11 +1623,11 @@ _25bins_no_UOF_new_75pa-eps-converted-to.pdf used on input line 156.
 (pdftex.def)             Requested size: 177.3999pt x 123.27261pt.
 Package epstopdf Info: Source file: <ROC_Tau_C/Rawhit_05GeV_tau21_10tev_eff_1_N
 ew2_after_cut_25bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-09-23 09:02:40
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 13002 bytes
 (epstopdf)             Output file: <ROC_Tau_C/Rawhit_05GeV_tau21_10tev_eff_1_N
 ew2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:19
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11205 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_Tau_C/Rawhit_05GeV_tau
 21_10tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf ROC_T
@@ -1643,7 +1636,7 @@ au_C/Rawhit_05GeV_tau21_10tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_Tau_C/Rawhit_05GeV_tau21_10tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa
--eps-converted-to.pdf, id=793, 569.12625pt x 395.4775pt>
+-eps-converted-to.pdf, id=794, 569.12625pt x 395.4775pt>
 File: ROC_Tau_C/Rawhit_05GeV_tau21_10tev_eff_1_New2_after_cut_25bins_no_UOF_new
 _75pa-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1654,11 +1647,11 @@ t_25bins_no_UOF_new_75pa-eps-converted-to.pdf used on input line 159.
 (pdftex.def)             Requested size: 177.3999pt x 123.27261pt.
 Package epstopdf Info: Source file: <ROC_Tau_C/Rawhit_05GeV_tau21_20tev_eff_1_N
 ew2_after_cut_25bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-09-23 09:02:40
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12735 bytes
 (epstopdf)             Output file: <ROC_Tau_C/Rawhit_05GeV_tau21_20tev_eff_1_N
 ew2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:20
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11161 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_Tau_C/Rawhit_05GeV_tau
 21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf ROC_T
@@ -1667,7 +1660,7 @@ au_C/Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_Tau_C/Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa
--eps-converted-to.pdf, id=794, 569.12625pt x 395.4775pt>
+-eps-converted-to.pdf, id=795, 569.12625pt x 395.4775pt>
 File: ROC_Tau_C/Rawhit_05GeV_tau21_20tev_eff_1_New2_after_cut_25bins_no_UOF_new
 _75pa-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1678,11 +1671,11 @@ t_25bins_no_UOF_new_75pa-eps-converted-to.pdf used on input line 162.
 (pdftex.def)             Requested size: 177.3999pt x 123.27261pt.
 Package epstopdf Info: Source file: <ROC_Tau_C/Rawhit_05GeV_tau21_40tev_eff_1_N
 ew2_after_cut_25bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-09-23 09:02:40
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12468 bytes
 (epstopdf)             Output file: <ROC_Tau_C/Rawhit_05GeV_tau21_40tev_eff_1_N
 ew2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:20
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11097 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_Tau_C/Rawhit_05GeV_tau
 21_40tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf ROC_T
@@ -1691,7 +1684,7 @@ au_C/Rawhit_05GeV_tau21_40tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_Tau_C/Rawhit_05GeV_tau21_40tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa
--eps-converted-to.pdf, id=795, 569.12625pt x 395.4775pt>
+-eps-converted-to.pdf, id=796, 569.12625pt x 395.4775pt>
 File: ROC_Tau_C/Rawhit_05GeV_tau21_40tev_eff_1_New2_after_cut_25bins_no_UOF_new
 _75pa-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1702,11 +1695,11 @@ t_25bins_no_UOF_new_75pa-eps-converted-to.pdf used on input line 165.
 (pdftex.def)             Requested size: 177.3999pt x 123.27261pt.
 Package epstopdf Info: Source file: <h_Tau_C/Dis_Rawhit_05GeV_010_tau32_20tev_0
 4_after_cut_Man_25_no_UOF_new_75pa_for_paper.eps>
-(epstopdf)                    date: 2018-11-03 09:52:41
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12406 bytes
 (epstopdf)             Output file: <h_Tau_C/Dis_Rawhit_05GeV_010_tau32_20tev_0
 4_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:57:08
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9430 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_Tau_C/Dis_Rawhit_05GeV_0
 10_tau32_20tev_04_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.p
@@ -1716,7 +1709,7 @@ _for_paper.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <h_Tau_C/Dis_Rawhit_05GeV_010_tau32_20tev_04_after_cut_Man_25_no_UOF_new_75pa_f
-or_paper-eps-converted-to.pdf, id=796, 569.12625pt x 543.02875pt>
+or_paper-eps-converted-to.pdf, id=797, 569.12625pt x 543.02875pt>
 File: h_Tau_C/Dis_Rawhit_05GeV_010_tau32_20tev_04_after_cut_Man_25_no_UOF_new_7
 5pa_for_paper-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1727,11 +1720,11 @@ Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf used on input line 183.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <h_Tau_C/Dis_Rawhit_05GeV_009_tau32_20tev_0
 4_after_cut_Man_25_no_UOF_new_75pa_for_paper.eps>
-(epstopdf)                    date: 2018-11-03 09:52:41
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11864 bytes
 (epstopdf)             Output file: <h_Tau_C/Dis_Rawhit_05GeV_009_tau32_20tev_0
 4_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:57:09
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9337 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_Tau_C/Dis_Rawhit_05GeV_0
 09_tau32_20tev_04_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.p
@@ -1741,7 +1734,7 @@ _for_paper.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <h_Tau_C/Dis_Rawhit_05GeV_009_tau32_20tev_04_after_cut_Man_25_no_UOF_new_75pa_f
-or_paper-eps-converted-to.pdf, id=797, 569.12625pt x 543.02875pt>
+or_paper-eps-converted-to.pdf, id=798, 569.12625pt x 543.02875pt>
 File: h_Tau_C/Dis_Rawhit_05GeV_009_tau32_20tev_04_after_cut_Man_25_no_UOF_new_7
 5pa_for_paper-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1752,11 +1745,11 @@ Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf used on input line 186.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <h_Tau_C/Dis_Rawhit_05GeV_012_tau32_20tev_0
 4_after_cut_Man_25_no_UOF_new_75pa_for_paper.eps>
-(epstopdf)                    date: 2018-11-03 09:52:41
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12330 bytes
 (epstopdf)             Output file: <h_Tau_C/Dis_Rawhit_05GeV_012_tau32_20tev_0
 4_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:57:09
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9440 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_Tau_C/Dis_Rawhit_05GeV_0
 12_tau32_20tev_04_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.p
@@ -1766,7 +1759,7 @@ _for_paper.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <h_Tau_C/Dis_Rawhit_05GeV_012_tau32_20tev_04_after_cut_Man_25_no_UOF_new_75pa_f
-or_paper-eps-converted-to.pdf, id=798, 569.12625pt x 543.02875pt>
+or_paper-eps-converted-to.pdf, id=799, 569.12625pt x 543.02875pt>
 File: h_Tau_C/Dis_Rawhit_05GeV_012_tau32_20tev_04_after_cut_Man_25_no_UOF_new_7
 5pa_for_paper-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1777,11 +1770,11 @@ Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf used on input line 189.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <ROC_Tau_C/Rawhit_05GeV_tau32_5tev_eff_1_Ne
 w2_after_cut_25bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-09-23 09:02:41
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12827 bytes
 (epstopdf)             Output file: <ROC_Tau_C/Rawhit_05GeV_tau32_5tev_eff_1_Ne
 w2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:23
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 10831 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_Tau_C/Rawhit_05GeV_tau
 32_5tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf ROC_Ta
@@ -1790,7 +1783,7 @@ u_C/Rawhit_05GeV_tau32_5tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_Tau_C/Rawhit_05GeV_tau32_5tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-
-eps-converted-to.pdf, id=799, 569.12625pt x 395.4775pt>
+eps-converted-to.pdf, id=800, 569.12625pt x 395.4775pt>
 File: ROC_Tau_C/Rawhit_05GeV_tau32_5tev_eff_1_New2_after_cut_25bins_no_UOF_new_
 75pa-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1801,11 +1794,11 @@ _25bins_no_UOF_new_75pa-eps-converted-to.pdf used on input line 202.
 (pdftex.def)             Requested size: 177.3999pt x 123.27261pt.
 Package epstopdf Info: Source file: <ROC_Tau_C/Rawhit_05GeV_tau32_10tev_eff_1_N
 ew2_after_cut_25bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-09-23 09:02:41
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12780 bytes
 (epstopdf)             Output file: <ROC_Tau_C/Rawhit_05GeV_tau32_10tev_eff_1_N
 ew2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:23
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 10815 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_Tau_C/Rawhit_05GeV_tau
 32_10tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf ROC_T
@@ -1814,7 +1807,7 @@ au_C/Rawhit_05GeV_tau32_10tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_Tau_C/Rawhit_05GeV_tau32_10tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa
--eps-converted-to.pdf, id=800, 569.12625pt x 395.4775pt>
+-eps-converted-to.pdf, id=801, 569.12625pt x 395.4775pt>
 File: ROC_Tau_C/Rawhit_05GeV_tau32_10tev_eff_1_New2_after_cut_25bins_no_UOF_new
 _75pa-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1825,11 +1818,11 @@ t_25bins_no_UOF_new_75pa-eps-converted-to.pdf used on input line 205.
 (pdftex.def)             Requested size: 177.3999pt x 123.27261pt.
 Package epstopdf Info: Source file: <ROC_Tau_C/Rawhit_05GeV_tau32_20tev_eff_1_N
 ew2_after_cut_25bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-09-23 09:02:41
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12768 bytes
 (epstopdf)             Output file: <ROC_Tau_C/Rawhit_05GeV_tau32_20tev_eff_1_N
 ew2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:24
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 10843 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_Tau_C/Rawhit_05GeV_tau
 32_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf ROC_T
@@ -1838,7 +1831,7 @@ au_C/Rawhit_05GeV_tau32_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_Tau_C/Rawhit_05GeV_tau32_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa
--eps-converted-to.pdf, id=801, 569.12625pt x 395.4775pt>
+-eps-converted-to.pdf, id=802, 569.12625pt x 395.4775pt>
 File: ROC_Tau_C/Rawhit_05GeV_tau32_20tev_eff_1_New2_after_cut_25bins_no_UOF_new
 _75pa-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1849,11 +1842,11 @@ t_25bins_no_UOF_new_75pa-eps-converted-to.pdf used on input line 208.
 (pdftex.def)             Requested size: 177.3999pt x 123.27261pt.
 Package epstopdf Info: Source file: <ROC_Tau_C/Rawhit_05GeV_tau32_40tev_eff_1_N
 ew2_after_cut_25bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-09-23 09:02:41
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12772 bytes
 (epstopdf)             Output file: <ROC_Tau_C/Rawhit_05GeV_tau32_40tev_eff_1_N
 ew2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:25
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 10832 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_Tau_C/Rawhit_05GeV_tau
 32_40tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf ROC_T
@@ -1862,7 +1855,7 @@ au_C/Rawhit_05GeV_tau32_40tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_Tau_C/Rawhit_05GeV_tau32_40tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa
--eps-converted-to.pdf, id=802, 569.12625pt x 395.4775pt>
+-eps-converted-to.pdf, id=803, 569.12625pt x 395.4775pt>
 File: ROC_Tau_C/Rawhit_05GeV_tau32_40tev_eff_1_New2_after_cut_25bins_no_UOF_new
 _75pa-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1873,11 +1866,11 @@ t_25bins_no_UOF_new_75pa-eps-converted-to.pdf used on input line 211.
 (pdftex.def)             Requested size: 177.3999pt x 123.27261pt.
 Package epstopdf Info: Source file: <h_Tau_C/Dis_Rawhit_05GeV_010_c2b1_20tev_04
 _after_cut_Man_25_no_UOF_new_75pa_for_paper.eps>
-(epstopdf)                    date: 2018-11-03 09:52:42
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12493 bytes
 (epstopdf)             Output file: <h_Tau_C/Dis_Rawhit_05GeV_010_c2b1_20tev_04
 _after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:57:10
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9342 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_Tau_C/Dis_Rawhit_05GeV_0
 10_c2b1_20tev_04_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pd
@@ -1887,7 +1880,7 @@ or_paper.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <h_Tau_C/Dis_Rawhit_05GeV_010_c2b1_20tev_04_after_cut_Man_25_no_UOF_new_75pa_fo
-r_paper-eps-converted-to.pdf, id=803, 569.12625pt x 543.02875pt>
+r_paper-eps-converted-to.pdf, id=804, 569.12625pt x 543.02875pt>
 File: h_Tau_C/Dis_Rawhit_05GeV_010_c2b1_20tev_04_after_cut_Man_25_no_UOF_new_75
 pa_for_paper-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1898,11 +1891,11 @@ an_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf used on input line 230.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <h_Tau_C/Dis_Rawhit_05GeV_009_c2b1_20tev_04
 _after_cut_Man_25_no_UOF_new_75pa_for_paper.eps>
-(epstopdf)                    date: 2018-11-03 09:52:42
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12533 bytes
 (epstopdf)             Output file: <h_Tau_C/Dis_Rawhit_05GeV_009_c2b1_20tev_04
 _after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:57:11
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9362 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_Tau_C/Dis_Rawhit_05GeV_0
 09_c2b1_20tev_04_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pd
@@ -1912,7 +1905,7 @@ or_paper.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <h_Tau_C/Dis_Rawhit_05GeV_009_c2b1_20tev_04_after_cut_Man_25_no_UOF_new_75pa_fo
-r_paper-eps-converted-to.pdf, id=804, 569.12625pt x 543.02875pt>
+r_paper-eps-converted-to.pdf, id=805, 569.12625pt x 543.02875pt>
 File: h_Tau_C/Dis_Rawhit_05GeV_009_c2b1_20tev_04_after_cut_Man_25_no_UOF_new_75
 pa_for_paper-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1923,11 +1916,11 @@ an_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf used on input line 234.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <h_Tau_C/Dis_Rawhit_05GeV_012_c2b1_20tev_04
 _after_cut_Man_25_no_UOF_new_75pa_for_paper.eps>
-(epstopdf)                    date: 2018-11-03 09:52:42
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12330 bytes
 (epstopdf)             Output file: <h_Tau_C/Dis_Rawhit_05GeV_012_c2b1_20tev_04
 _after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 09:57:12
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9360 bytes
 (epstopdf)             Command: <repstopdf --outfile=h_Tau_C/Dis_Rawhit_05GeV_0
 12_c2b1_20tev_04_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pd
@@ -1937,7 +1930,7 @@ or_paper.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <h_Tau_C/Dis_Rawhit_05GeV_012_c2b1_20tev_04_after_cut_Man_25_no_UOF_new_75pa_fo
-r_paper-eps-converted-to.pdf, id=805, 569.12625pt x 543.02875pt>
+r_paper-eps-converted-to.pdf, id=806, 569.12625pt x 543.02875pt>
 File: h_Tau_C/Dis_Rawhit_05GeV_012_c2b1_20tev_04_after_cut_Man_25_no_UOF_new_75
 pa_for_paper-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1948,11 +1941,11 @@ an_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf used on input line 238.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <ROC_Tau_C/Rawhit_05GeV_c2b1_5tev_eff_1_New
 2_after_cut_25bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-09-23 09:02:42
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12799 bytes
 (epstopdf)             Output file: <ROC_Tau_C/Rawhit_05GeV_c2b1_5tev_eff_1_New
 2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:14
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11067 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_Tau_C/Rawhit_05GeV_c2b
 1_5tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf ROC_Tau
@@ -1961,7 +1954,7 @@ _C/Rawhit_05GeV_c2b1_5tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_Tau_C/Rawhit_05GeV_c2b1_5tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-e
-ps-converted-to.pdf, id=806, 569.12625pt x 395.4775pt>
+ps-converted-to.pdf, id=807, 569.12625pt x 395.4775pt>
 File: ROC_Tau_C/Rawhit_05GeV_c2b1_5tev_eff_1_New2_after_cut_25bins_no_UOF_new_7
 5pa-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1972,11 +1965,11 @@ Package pdftex.def Info: ROC_Tau_C/Rawhit_05GeV_c2b1_5tev_eff_1_New2_after_cut_
 (pdftex.def)             Requested size: 177.3999pt x 123.27261pt.
 Package epstopdf Info: Source file: <ROC_Tau_C/Rawhit_05GeV_c2b1_10tev_eff_1_Ne
 w2_after_cut_25bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-09-23 09:02:42
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12784 bytes
 (epstopdf)             Output file: <ROC_Tau_C/Rawhit_05GeV_c2b1_10tev_eff_1_Ne
 w2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:15
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11069 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_Tau_C/Rawhit_05GeV_c2b
 1_10tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf ROC_Ta
@@ -1985,7 +1978,7 @@ u_C/Rawhit_05GeV_c2b1_10tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_Tau_C/Rawhit_05GeV_c2b1_10tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-
-eps-converted-to.pdf, id=807, 569.12625pt x 395.4775pt>
+eps-converted-to.pdf, id=808, 569.12625pt x 395.4775pt>
 File: ROC_Tau_C/Rawhit_05GeV_c2b1_10tev_eff_1_New2_after_cut_25bins_no_UOF_new_
 75pa-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1996,11 +1989,11 @@ _25bins_no_UOF_new_75pa-eps-converted-to.pdf used on input line 253.
 (pdftex.def)             Requested size: 177.3999pt x 123.27261pt.
 Package epstopdf Info: Source file: <ROC_Tau_C/Rawhit_05GeV_c2b1_20tev_eff_1_Ne
 w2_after_cut_25bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-09-23 09:02:42
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12789 bytes
 (epstopdf)             Output file: <ROC_Tau_C/Rawhit_05GeV_c2b1_20tev_eff_1_Ne
 w2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:15
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11056 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_Tau_C/Rawhit_05GeV_c2b
 1_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf ROC_Ta
@@ -2009,7 +2002,7 @@ u_C/Rawhit_05GeV_c2b1_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_Tau_C/Rawhit_05GeV_c2b1_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-
-eps-converted-to.pdf, id=808, 569.12625pt x 395.4775pt>
+eps-converted-to.pdf, id=809, 569.12625pt x 395.4775pt>
 File: ROC_Tau_C/Rawhit_05GeV_c2b1_20tev_eff_1_New2_after_cut_25bins_no_UOF_new_
 75pa-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2020,11 +2013,11 @@ _25bins_no_UOF_new_75pa-eps-converted-to.pdf used on input line 256.
 (pdftex.def)             Requested size: 177.3999pt x 123.27261pt.
 Package epstopdf Info: Source file: <ROC_Tau_C/Rawhit_05GeV_c2b1_40tev_eff_1_Ne
 w2_after_cut_25bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-09-23 09:02:42
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12744 bytes
 (epstopdf)             Output file: <ROC_Tau_C/Rawhit_05GeV_c2b1_40tev_eff_1_Ne
 w2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-23 15:22:16
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11041 bytes
 (epstopdf)             Command: <repstopdf --outfile=ROC_Tau_C/Rawhit_05GeV_c2b
 1_40tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf ROC_Ta
@@ -2033,7 +2026,7 @@ u_C/Rawhit_05GeV_c2b1_40tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <ROC_Tau_C/Rawhit_05GeV_c2b1_40tev_eff_1_New2_after_cut_25bins_no_UOF_new_75pa-
-eps-converted-to.pdf, id=809, 569.12625pt x 395.4775pt>
+eps-converted-to.pdf, id=810, 569.12625pt x 395.4775pt>
 File: ROC_Tau_C/Rawhit_05GeV_c2b1_40tev_eff_1_New2_after_cut_25bins_no_UOF_new_
 75pa-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2044,11 +2037,11 @@ _25bins_no_UOF_new_75pa-eps-converted-to.pdf used on input line 259.
 (pdftex.def)             Requested size: 177.3999pt x 123.27261pt.
 Package epstopdf Info: Source file: <Mann_Sum/raw_05_tau21_summary_U_after_cut_
 25bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-11-03 10:00:06
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12078 bytes
 (epstopdf)             Output file: <Mann_Sum/raw_05_tau21_summary_U_after_cut_
 25bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 10:00:36
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 9003 bytes
 (epstopdf)             Command: <repstopdf --outfile=Mann_Sum/raw_05_tau21_summ
 ary_U_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf Mann_Sum/raw_05_tau
@@ -2057,7 +2050,7 @@ ary_U_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf Mann_Sum/raw_05_tau
 Package epstopdf Info: Output file is already uptodate.
 
 <Mann_Sum/raw_05_tau21_summary_U_after_cut_25bins_no_UOF_new_75pa-eps-converted
--to.pdf, id=810, 569.12625pt x 543.02875pt>
+-to.pdf, id=811, 569.12625pt x 543.02875pt>
 File: Mann_Sum/raw_05_tau21_summary_U_after_cut_25bins_no_UOF_new_75pa-eps-conv
 erted-to.pdf Graphic file (type pdf)
 
@@ -2068,11 +2061,11 @@ F_new_75pa-eps-converted-to.pdf used on input line 275.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <Mann_Sum/raw_05_tau32_summary_U_after_cut_
 25bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-11-03 10:00:06
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 11889 bytes
 (epstopdf)             Output file: <Mann_Sum/raw_05_tau32_summary_U_after_cut_
 25bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 10:00:37
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 8671 bytes
 (epstopdf)             Command: <repstopdf --outfile=Mann_Sum/raw_05_tau32_summ
 ary_U_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf Mann_Sum/raw_05_tau
@@ -2081,7 +2074,7 @@ ary_U_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf Mann_Sum/raw_05_tau
 Package epstopdf Info: Output file is already uptodate.
 
 <Mann_Sum/raw_05_tau32_summary_U_after_cut_25bins_no_UOF_new_75pa-eps-converted
--to.pdf, id=811, 569.12625pt x 543.02875pt>
+-to.pdf, id=812, 569.12625pt x 543.02875pt>
 File: Mann_Sum/raw_05_tau32_summary_U_after_cut_25bins_no_UOF_new_75pa-eps-conv
 erted-to.pdf Graphic file (type pdf)
 
@@ -2092,11 +2085,11 @@ F_new_75pa-eps-converted-to.pdf used on input line 278.
 (pdftex.def)             Requested size: 123.77074pt x 118.09122pt.
 Package epstopdf Info: Source file: <Mann_Sum/raw_05_c2b1_summary_U_after_cut_2
 5bins_no_UOF_new_75pa.eps>
-(epstopdf)                    date: 2018-11-03 10:00:07
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 12071 bytes
 (epstopdf)             Output file: <Mann_Sum/raw_05_c2b1_summary_U_after_cut_2
 5bins_no_UOF_new_75pa-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-03 10:00:38
+(epstopdf)                    date: 2018-11-30 11:34:08
 (epstopdf)                    size: 8984 bytes
 (epstopdf)             Command: <repstopdf --outfile=Mann_Sum/raw_05_c2b1_summa
 ry_U_after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf Mann_Sum/raw_05_c2b1
@@ -2105,7 +2098,7 @@ _summary_U_after_cut_25bins_no_UOF_new_75pa.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <Mann_Sum/raw_05_c2b1_summary_U_after_cut_25bins_no_UOF_new_75pa-eps-converted-
-to.pdf, id=812, 569.12625pt x 543.02875pt>
+to.pdf, id=813, 569.12625pt x 543.02875pt>
 File: Mann_Sum/raw_05_c2b1_summary_U_after_cut_25bins_no_UOF_new_75pa-eps-conve
 rted-to.pdf Graphic file (type pdf)
 
@@ -2119,7 +2112,7 @@ entifier (name{figure.11}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.331 
+l.334 
        <./h_Tau_C/Dis_Rawhit_05GeV_010_tau21_20tev_04_after_cut_Man_25_no_UOF_n
 ew_75pa_for_paper-eps-converted-to.pdf> <./h_Tau_C/Dis_Rawhit_05GeV_009_tau21_2
 0tev_04_after_cut_Man_25_no_UOF_new_75pa_for_paper-eps-converted-to.pdf> <./h_T
@@ -2129,13 +2122,13 @@ aper-eps-converted-to.pdf>] [14pdfTeX warning (ext4): destination with the same
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.331 
+l.334 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 13}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.331 
+l.334 
        <./ROC_Tau_C/Rawhit_05GeV_tau21_5tev_eff_1_New2_after_cut_25bins_no_UOF_
 new_75pa-eps-converted-to.pdf> <./ROC_Tau_C/Rawhit_05GeV_tau21_10tev_eff_1_New2
 _after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf> <./ROC_Tau_C/Rawhit_05G
@@ -2151,13 +2144,13 @@ ate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.331 
+l.334 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 15}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.331 
+l.334 
        <./ROC_Tau_C/Rawhit_05GeV_tau32_5tev_eff_1_New2_after_cut_25bins_no_UOF_
 new_75pa-eps-converted-to.pdf> <./ROC_Tau_C/Rawhit_05GeV_tau32_10tev_eff_1_New2
 _after_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf> <./ROC_Tau_C/Rawhit_05G
@@ -2173,13 +2166,13 @@ ion with the same identifier (name{figure.16}) has been already used, duplicate
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.331 
+l.334 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 17}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.331 
+l.334 
        <./ROC_Tau_C/Rawhit_05GeV_c2b1_5tev_eff_1_New2_after_cut_25bins_no_UOF_n
 ew_75pa-eps-converted-to.pdf> <./ROC_Tau_C/Rawhit_05GeV_c2b1_10tev_eff_1_New2_a
 fter_cut_25bins_no_UOF_new_75pa-eps-converted-to.pdf> <./ROC_Tau_C/Rawhit_05GeV
@@ -2199,25 +2192,21 @@ Missing character: There is no € in font cmr9!
 Missing character: There is no “ in font cmr9!
 
 [18])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 344.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 347.
  [19]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 347.
  (./fcc_hcal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 344.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 344.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 347.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 347.
 Package rerunfilecheck Info: File `fcc_hcal.out' has not changed.
 (rerunfilecheck)             Checksum: 6FE896B56E6F09E5363C5FE81EC9DE2C;766.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 344.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 347.
  ) 
 Here is how much of TeX's memory you used:
- 9103 strings out of 492995
- 155533 string characters out of 6132704
- 264111 words of memory out of 5000000
- 12264 multiletter control sequences out of 15000+600000
+ 9104 strings out of 492995
+ 155542 string characters out of 6132704
+ 265166 words of memory out of 5000000
+ 12265 multiletter control sequences out of 15000+600000
  17621 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,8n,40p,456b,552s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2243,10 +2232,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2017/texmf
 dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2017/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2017/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on fcc_hcal.pdf (19 pages, 704308 bytes).
+Output written on fcc_hcal.pdf (19 pages, 704198 bytes).
 PDF statistics:
- 1325 PDF objects out of 1440 (max. 8388607)
- 1026 compressed objects within 11 object streams
+ 1326 PDF objects out of 1440 (max. 8388607)
+ 1027 compressed objects within 11 object streams
  146 named destinations out of 1000 (max. 500000)
  389 words of extra memory for PDF output out of 10000 (max. 10000000)
 
