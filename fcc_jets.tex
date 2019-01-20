@@ -1,51 +1,46 @@
 \section{Studies of jet properties}
 \label{sec:jets}
 
-We consider several variables that represent jet substructure using different types
-of calorimeter granularity. The question we want to answer is how close the reconstructed
-jet substructure variables reflect the input ``truth'' values  that are reconstructed using 
-input particles directly from the \pythia generator.
+We consider several variables that characterize jet substructure using different calorimeter granularities. The question we want to answer is, how closely the reconstructed
+jet substructure variables reflect the input ``truth'' values  that are reconstructed using particles directly from the \pythia generator.
 
 In this study we use the jet effective radius and jet splitting scales as benchmark variables
-to study jet substructure properties for different calorimeter granularity scenarios. 
-The effective radius is the average of the energy weighted radial distance $\delta R_i$ in $\eta-\phi$ space of jet constituents.
+to study jet substructure properties. 
+The effective radius is the average of the energy-weighted radial distance $\delta R_i$ in $\eta-\phi$ space of jet constituents.
 It is defined as $(1/E) \sum_i e_i \delta R_i$, where $E$ is the energy of the jet and $e_i$ is the energy of a calorimeter 
-cluster $i$ at the distance $\delta R_i$ from the jet center. The sum runs over all constituents of the jet. 
-Recently, it has been studied for multi-TeV jets in Ref.\cite{Auerbach:2014xua}.
-A jet $k_T$ splitting scale \cite{Butterworth:2002tt} is defined as a distance measure
+constituent cluster $i$ at the distance $\delta R_i$ from the jet center. The sum runs over all constituents of the jet. 
+This variable has been studied for multi-TeV jets in Ref.~\cite{Auerbach:2014xua}.
+A jet $k_T$ splitting scale~\cite{Butterworth:2002tt} is defined as a distance measure
 used to form jets by the $k_T$ recombination
-algorithm \cite{Catani1993187,Ellis:1993tq}.
-This variable has been studied by ATLAS~\cite{ATLAS:2012am}, and more recently in the context of 100 TeV physics \cite{Auerbach:2014xua}.
-The splitting scale is defined as 
-$\sqrt{d_{12}}=\min(p_T^1,p_T^2) \times \delta R_{12}$ \cite{ATLAS:2012am} at the final stage of the $k_T$ clustering, where two subjets are merged into the final one.
+algorithm~\cite{Catani1993187,Ellis:1993tq}.
+This variable has been studied by ATLAS~\cite{ATLAS:2012am}, and more recently in the context of 100 TeV physics~\cite{Auerbach:2014xua}.
+The splitting scale is defined as $\sqrt{d_{12}}=\min(p_T^1,p_T^2) \times \delta R_{12}$~\cite{ATLAS:2012am} 
+ at the final stage of the $k_T$ clustering, where two subjets are merged into the final jet.
 
-Figures~\ref{fig:eff_rad} and  \ref{fig:d12} show the distributions of 
+Figures~\ref{fig:eff_rad} and~\ref{fig:d12} show the distributions of 
 the jet effective radius and jet splitting scale for  different jet transverse momenta and HCAL granularities. 
-The reconstructed-level distributions significantly disagree with the distributions  
-reconstructed using truth-level particles. The distribution reconstructed with the cell
-sizes 1~$\times$1~cm$^2$ are closest to the truth-level variables. The distributions 
-reconstructed using the cell size of 20~$\times$20~cm$^2$, 
-show the largest discrepancy with the
-truth-level variables. Note that, in terms of closeness of reconstructed distributions to the truth level, 
-there is no significant difference between 5~$\times$5~cm$^2$,  2~$\times$2~cm$^2$ and  1~$\times$1~cm$^2$ choices. 
+The reconstructed-level distributions  disagree significantly with the distributions  
+reconstructed using truth-level particles. The distributions reconstructed with cell
+size 1~$\times$~1~cm$^2$ are closest to the truth-level variables. The distributions 
+reconstructed using the cell size of 20~$\times$20~cm$^2$, show the largest discrepancy with the
+truth-level variables. Note that, in terms of similarity of reconstructed distributions to the truth-level distributions, 
+there is no significant difference between 5~$\times$~5~cm$^2$,  2~$\times$~2~cm$^2$ and  1~$\times$~1~cm$^2$ cell sizes. 
 
-Thus this study confirms the  baseline SiFCC detector geometry \cite{Chekanov:2016ppq}
-that uses $5\times 5$~cm$^2$ HCAL cells,
+This study confirms the  baseline SiFCC detector geometry~\cite{Chekanov:2016ppq} that uses $5 \times 5$~cm$^2$ HCAL cells,
 corresponding to $\Delta \eta \times \Delta \phi = 0.022\times0.022$.
-Similar HCAL cell sizes,  $0.025\times0.025$, 
-were recently adopted for the baseline FCC-hh detector \cite{fcc1,fcc2} planned at CERN.
-Before the publication \cite{Chekanov:2016ppq},   such a choice for the HCAL cells   
+Similar HCAL cell sizes,  $0.025\times0.025$,  were recently adopted for the baseline FCC-hh detector~\cite{fcc1,fcc2} planned at CERN.
+Before the publication~\cite{Chekanov:2016ppq},   such a choice for the HCAL cells   
 was motivated by the studies of jet substructure  using a fast detector simulation of boosted jets.
 In addition to the improvements in physics performance, the smaller HCAL cells 
 reduce the required dynamic range for 
-signal reconstruction \cite{Chekanov:2015ihl}, and thus can simplify the calorimeter readout.
+signal reconstruction~\cite{Chekanov:2015ihl}, and thus can simplify the calorimeter readout.
 
 It should be noted that the ATLAS and CMS detectors use the HCAL cell sizes in the barrel region which are close to 
 $\Delta \eta \times \Delta \phi = 0.087\times 0.087$.  According to this study,
 such HCAL cell sizes are not optimal in terms of performance  for tens-of-TeV jets.
 
-In the next few sections we will consider several other physics-motivated
-variables that can shed light  upon the performance of the HCAL for tens-of-TeV jets.
+In the following sections we consider several other physics-motivated
+variables that can shed light on the performance of the HCAL for tens-of-TeV jets.
 
 \begin{figure}
 \begin{center}
@@ -138,4 +133,3 @@ As an example of the effect of the calorimeter granularity,
 
 %%%%%%%%%%%%%%% commented out 
 \end{comment}
-

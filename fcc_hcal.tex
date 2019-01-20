@@ -159,7 +159,7 @@ Studies of granularity of a hadronic calorimeter for tens-of-TeV jets  at a 100~
 \author[add1]{S.V.~Chekanov}
 \ead{chekanov@anl.gov}
 
-\author[addDuke,add2]{A.V.~Kotwal}
+\author[addDuke]{A.V.~Kotwal}
 \ead{ashutosh.kotwal@duke.edu}
 
 \author[add1]{J.~Proudfoot}
@@ -202,11 +202,11 @@ Trowbridge Road, East Lansing, MI 48824
 
 \begin{abstract}
 Jet substructure variables for hadronic jets with transverse momenta in the range from 2.5~TeV to 20~TeV
-were studied using several designs for spacial size of calorimeter cells. The studies  used 
+were studied using several designs for the spatial size of calorimeter cells. The studies  used 
 the full Geant4 simulation 
 of calorimeter response combined with realistic reconstruction of calorimeter clusters.
-In most cases considered in this study the results indicate that the performance of jet-substructure 
-reconstruction improves with reducing cell sizes of a hadronic calorimeter 
+In most cases, the results indicate that the performance of jet-substructure 
+reconstruction improves with reducing cell size of a hadronic calorimeter 
 from $\Delta \eta \times \Delta \phi = 0.087\times0.087$
 to $0.022\times0.022$. 
 
@@ -230,14 +230,12 @@ multi-TeV physics, $pp$ collider, future hadron colliders, FCC, SppC
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Particle collisions at energies  beyond those attained at the LHC will lead to many challenges for detector technologies.
-Future experiments, such as high-energy LHC (HE-LHC),
-future circular $pp$ colliders of the European initiative, FCC-hh~\cite{Benedikt:2206376} and the Chinese initiative, SppC~\cite{Tang:2015qga} will be required to measure high-momentum bosons ($W$, $Z$, $H$) and top quarks with strongly 
-collimated decay products that form jets. 
+Future circular $pp$ colliders such as the European initiatives, high-energy LHC (HE-LHC) and FCC-hh~\cite{Benedikt:2206376} and the Chinese initiative, SppC~\cite{Tang:2015qga} will measure high-momentum bosons ($W$, $Z$, $H$) and top quarks with highly-collimated decay products that form jets. 
 Jet substructure techniques are used
-to identify such highly boosted particles, and thus can maximize the physics potential of the future colliders.
+to identify such boosted particles, and thus can maximize the physics potential of the future colliders.
 
-The reconstruction of jet substructure  variables for collimated jets with transverse momentum above 10 TeV 
-requires an appropriate detector design. The most important for reconstruction of such jets are tracking and calorimetry.
+The reconstruction of jet substructure  variables for collimated jets with transverse momenta above 10 TeV 
+requires an appropriate detector design. The most important detector systems for reconstruction of such jets are tracking and calorimetry.
 Recently, a number of studies \cite{Calkins:2013ega,Chekanov:2015ihl,Coleman:2017fiq} 
 have been discussed using various fast simulation tools, such as 
 Delphes  \cite{deFavereau:2013fsa}, in which momenta of particles
@@ -247,21 +245,17 @@ A major step towards the usage of full Geant4 simulation to verify the granulari
 for calorimeters was made in \cite{Chekanov:2016ppq}.
 These studies have illustrated a significant impact 
 of granularity of electromagnetic (ECAL) and hadronic (HCAL) calorimeters on the
-shape of hadronic showers  calculated using calorimeter hits 
-for two particles separated  by some angle. It was concluded that high granularity is essential 
+cluster separation between two particles. It was concluded that high granularity is essential 
 in resolving two close-by particles for energies above 100 GeV. 
 
-This paper makes another step in  understanding of this problem in terms 
-of high-level physics quantities typically used in physics analyses.
-Similar to the studies presented in \cite{Chekanov:2016ppq}, this paper is based on a full
+This paper takes the next step in  understanding this problem in terms of high-level quantities typically used in physics analyses. Similar to the studies presented in \cite{Chekanov:2016ppq}, this paper is based on a full
 Geant4 simulation with realistic jet reconstruction.
 
 \section{Simulation of detector response}
 \label{sec:sim}
 
 The description of the detector and software used for this study is discussed in \cite{Chekanov:2016ppq}.
-We use the SiFCC detector geometry with a software package that
-represents a versatile environment for simulations
+We use the SiFCC detector geometry with a software package that provides a versatile environment for simulations
 of detector performance, testing new technology options, and event reconstruction techniques for future
 100~TeV colliders.
 
@@ -272,20 +266,18 @@ which corresponds to $\Delta \eta \times \Delta \phi = 0.022\times0.022$,
 where $\eta$ is the pseudorapidity,
 $\eta \equiv -\ln\tan(\theta/2)$, and $\phi$ is the azimuthal angle.
 The depth of the HCAL
-in the barrel region is about 11.25 interaction lengths ($\lambda_I$).
+in the barrel region is  11.25 interaction lengths ($\lambda_I$).
 The HCAL has 64 longitudinal layers in the barrel and the endcap regions.
 
-In addition, to the baseline HCAL geometry,
+In addition to the baseline HCAL geometry,
 several geometry variations were considered.
-We used the HCAL with the cells that have the transverse size of
-20~$\times$~20~cm$^2$, 2~$\times$2~cm$^2$ and  1~$\times$1~cm$^2$.
+We used the HCAL with transverse cell size of
+20~$\times$~20~cm$^2$, 2~$\times$~2~cm$^2$ and  1~$\times$~1~cm$^2$.
 In the terms of $\Delta \eta \times \Delta \phi$,  such cell sizes correspond to
 $0.087\times0.087$, $0.0087\times 0.0087$ and  $0.0043\times0.0043$, respectively.
 
-The \GEANTfour\ (version 10.3)~\cite{Allison2016186} simulation of calorimeter response was complemented 
-with the full reconstruction of calorimeter clusters formed by the Pandora algorithm \cite{Charles:2009ta,Marshall:2013bda}.
-Calorimeter clusters were built from calorimeter hits in the  ECAL and HCAL after applying the corresponding sampling fractions.
-No other corrections are applied.
+The \GEANTfour\ (version 10.3)~\cite{Allison2016186} simulation of calorimeter response was followed by the full reconstruction of calorimeter clusters formed by the Pandora algorithm \cite{Charles:2009ta,Marshall:2013bda}.
+Calorimeter clusters were built from calorimeter hits in the  ECAL and HCAL after applying the corresponding sampling fractions. No other corrections are applied.
 Hadronic jets were 
 reconstructed with the {\sc FastJet} package~\cite{fastjet} using the anti-$k_T$ algorithm \cite{Cacciari:2008gp}
 with  a distance parameter of 0.5. 
@@ -293,15 +285,13 @@ with  a distance parameter of 0.5.
 In the following discussion, we use the simulations of a heavy $Z'$ boson, 
 a hypothetical gauge boson  that arises from extensions of the electroweak symmetry of the Standard Model.
 The $Z'$ bosons were simulated with the masses $M=5$, $10$, $20$ and $40$~TeV. The lowest value 
-represents a typical mass that is within the reach of the LHC experiments. The  value $40$~TeV 
-represents the physics reach for a  100~TeV collider. The $Z'$ particles are forced to decay 
-to two light-flavor jets ($q\bar{q}$), $W^+W^-$ or $t\bar{t}$, where
-$W$ and $t$ decay hadronically. In all such scenarios, two highly boosted
+represents a typical mass that is within the reach of the LHC experiments. The  resonance mass of $40$~TeV 
+represents the physics reach for a  100~TeV collider. The $Z'$ bosons are forced to decay to two light-flavor quark ($q\bar{q}$), $W^+W^-$ or $t\bar{t}$ final states, where the 
+$W$ bosons and $t$ quarks decay hadronically. In these scenarios, two highly-boosted
 jets are produced,  which are typically back-to-back in the laboratory frame.
-The typical transverse momenta of such jets are $\simeq M/2$.
-The main difference between considered decay types lays in different jet substructure. In the case of the $q\bar{q}$ decays,
-jets do not have any internal structure. In the case of  $W^+W^-$, each jet  originates from $W$, thus it has two
-subjets  because of the decay $W\rightarrow q\bar{q}$. In the case of hadronic top decays, jets have three subjets due
+The typical transverse momenta of the jets are $\simeq M/2$.
+The main difference between the considered decay modes lies in the different jet substructures. In the case of the $q\bar{q}$ decays,
+jets do not have any internal structure. In the case of the $W^+W^-$ final state, each jet has two subjets  because of the decay $W\rightarrow q\bar{q}$. In the case of hadronic top decays, jets have three subjets due
 to the decay $t \rightarrow  W^+\>b \rightarrow q\bar{q} b$.    
 The signal events were generated using the \pythia generator with the default settings,
 ignoring interference with SM processes.
@@ -325,12 +315,10 @@ HepSim  database~\cite{Chekanov:2014fga}.
 
 \section*{Acknowledgements}
 This research was performed using resources provided by the Open Science Grid,
-which is supported by the National Science Foundation and the U.S. Department of Energy's Office of Science. 
-We gratefully acknowledge the computing resources provided on Blues
-, 
+which is supported by the National Science Foundation and the U.S. Department of Energy Office of Science. 
+We gratefully acknowledge the computing resources provided on Blues, 
 a high-performance computing cluster operated by the Laboratory Computing Resource Center at Argonne National Laboratory.
-Argonne National Laboratory's work was supported by the U.S. Department of Energy, Office of Science under contract DE-AC02-06CH11357.
-The Fermi National Accelerator Laboratory (Fermilab) is operated by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the United States Department of Energy.
+Argonne National Laboratory is supported by the U.S. Department of Energy, Office of Science under contract DE-AC02-06CH11357. The Fermi National Accelerator Laboratory (Fermilab) is operated by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the United States Department of Energy.
 
 \newpage
 %%%%%%%%%%%%%%%%%%%%%% references %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
