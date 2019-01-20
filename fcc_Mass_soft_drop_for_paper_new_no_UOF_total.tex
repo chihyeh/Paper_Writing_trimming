@@ -13,7 +13,7 @@ is broken into two subjets $j_1$ and $j_2$ by undoing the last stage of C/A
 clustering.
 If the subjets pass the following soft drop condition, jet $j_0$ is the final 
 soft-drop jet. Otherwise, the algorithm redefines $j_0$ to be the subjet with 
-larger $p_T$ (among $j_1$ and $j_2$) and iterates the procedure.
+larger $p_T$ (among $j_1$ and $j_2$) and iterates the procedure. The condition is, 
 \begin{equation} \label{eq:soft-drop}
 \frac{\mathrm{min}(p_{T1},p_{T2})}{p_{T1}+p_{T2}}>z_\mathrm{cut}(\frac{\Delta R_{12}}{R_{0}})^{\beta},
 \end{equation}
@@ -31,8 +31,8 @@ algorithm becomes infrared and collinear safe.
 
 \subsection{Analysis method \label{sec:massana}}
 We employ the following method to quantify the detector performance and 
-determine the cell size that gives the best separation power to distinguish 
-signal from background. For each configuration of detector and c.m. energy, 
+determine the cell size that gives the best separation between  
+signal and background. For each configuration of detector and resonance mass, 
 we draw the receiver operating characteristic (ROC) curves in which the $x$-axis
  is the signal efficiency ($\epsilon_\mathrm{sig}$) and $y$-axis is the inverse 
 of the background efficiency ($1/\epsilon_\mathrm{bkg}$). 
@@ -48,38 +48,37 @@ the ROC curve.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Results and conclusion}
 
-Figures~\ref{fig:cluster_mass_mmdt_ww}-\ref{fig:cluster_mass_sdb2_tt} 
+Figures~\ref{fig:cluster_mass_mmdt_ww},~\ref{fig:cluster_mass_mmdt_tt},~\ref{fig:cluster_mass_sdb2_ww} and~\ref{fig:cluster_mass_sdb2_tt} 
 show the distributions for the soft drop mass for $\beta=0$ and $\beta=2$ with  
 different resonance masses and detector cell sizes; the signals considered are 
 the $Z'\rightarrow WW$ and $Z'\rightarrow t\bar{t}$ processes. 
-Figures~\ref{fig:cluster_mass_mmdt_ww_ROC}-\ref{fig:cluster_mass_sdb2_tt_ROC} 
-show the ROC curves for different detector cell sizes and  resonance masses.
+Figures~\ref{fig:cluster_mass_mmdt_ww_ROC},~\ref{fig:cluster_mass_mmdt_tt_ROC},~\ref{fig:cluster_mass_sdb2_ww_ROC} and~\ref{fig:cluster_mass_sdb2_tt_ROC} 
+show the corresponding ROC curves for different detector cell sizes and  resonance masses.
 
-These studies show that the reconstruction of soft drop mass improves with decrease of the HCAL cell sizes.
+These studies show that the reconstruction of soft drop mass improves with decreasing  HCAL cell sizes.
 Figures~\ref{fig:cluster_mass_mmdt_ww_ROC} and 
 \ref{fig:cluster_mass_mmdt_tt_ROC} show that for $\beta=0$ the 
 smallest detector cell size, 
 $1\times1$~cm$^2$, has the best separation power at 
-$\sqrt{s}=$5, 10, and 20~TeV when the signal is $Z' \rightarrow WW$,  and 
-at  $\sqrt{s}=$10 and 20 TeV when the signal is $Z' \rightarrow t\bar{t}$.
+resonance masses of 5, 10, and 20~TeV when the signal is the $Z' \rightarrow WW$ process,  and 
+at  resonance masses of 10 and 20 TeV when the signal is the $Z' \rightarrow t\bar{t}$ process.
 On the contrary, Figs.~\ref{fig:cluster_mass_sdb2_ww_ROC} and \ref{fig:cluster_mass_sdb2_tt_ROC} 
 show that for $\beta=2$ the smallest detector cell size 
-does not have improvements in the separation power with respect to those with 
-larger cell sizes. In fact, the performances of the three cell sizes are 
-similar. In addition, sometimes bigger detector cell sizes, 
+does not have improvements in the separation power when compared with 
+larger cell sizes. In fact, the performance for the three cell sizes is  
+similar. In addition, sometimes bigger cell sizes, 
 $5\times5$~cm$^2$ or even $20 \times 20$ cm$^2$ have the best separation power. 
 
 Note that the separation between ROC curves depends 
-on the physics variable and on the boost of top-quarks (or $W$). For example, 
-the absence of difference between the ROC curves shown in Fig.~\ref{fig:cluster_mass_mmdt_tt_ROC}(a)
+on the physics variable and on the boost of the top quarks or the $W$ bosons. For example, 
+the similarity between the ROC curves shown in Fig.~\ref{fig:cluster_mass_mmdt_tt_ROC}(a)
 is due to the insufficient boost of the top quarks.
-From the other hand, Fig.~\ref{fig:cluster_mass_mmdt_tt_ROC}(d) does not show a separation
-between the ROC lines since the boost is too high, therefore, all the considered 
-detector geometries show the same performance.
+On the other hand, Fig.~\ref{fig:cluster_mass_mmdt_tt_ROC}(d) does not show a difference 
+between the ROC curves because the boost is too high.
 
 We also find that the  soft drop mass with $\beta=0$ has better 
-performance for distinguishing signal from background than for  $\beta=2$. Therefore, we will 
-apply requirements on this variable when studying the other jet substructure 
+performance for distinguishing signal from background than with  $\beta=2$. Therefore, we will 
+apply requirements on the soft drop mass with $\beta=0$  when studying the other jet substructure 
 variables. 
  
 %50bins
